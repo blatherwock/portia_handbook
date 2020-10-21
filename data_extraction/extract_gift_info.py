@@ -74,15 +74,25 @@ class PropType(Enum):
     CRAFTABLE = 3
     OTHER = 10
 
+class UniversalGiftTypes(Enum):
+    '''
+    The 1-4 values correspond directly to the tags used for these groups in the game db.
+    '''
+    NONE = 0
+    LOVE = 1
+    LIKE = 2
+    DISLIKE = 3
+    HATE = 4
 
 class Prop(GiftRelationMixin):
-    def __init__(self, db_data, prop_type):
+    def __init__(self, db_data, prop_type=PropType.OTHER, universal_type=UniversalGiftTypes.NONE):
         super().__init__()
         self.db_data = db_data
         self._prop_type = prop_type
+        self._universal_type = universal_type
 
     def __str__(self):
-        return (f'{self.name} - {self.prop_type} - {self.db_data.Props_Id}')
+        return (f'{self.name} - {self.prop_type} - Universally {self.universal_type} - {self.db_data.Props_Id}')
 
     def favor_info(self):
         return (f'Loved by: {[gift.npc_str() for gift in self.loves()]}\n'
@@ -99,6 +109,11 @@ class Prop(GiftRelationMixin):
         return self._prop_type
 
     @property
+    def universal_type(self):
+        return self._universal_type
+
+
+    @property
     def gift_tag_ids(self):
         return self.db_data.Gift_TagID.split(",")
 
@@ -110,10 +125,10 @@ class Prop(GiftRelationMixin):
         return (self.db_data.IsGift == "1")
 
 class GiftLevel(Enum):
-    LOVE = 0
-    LIKE = 1
-    DISLIKE = 3
-    HATE = 4
+    LOVE = 5
+    LIKE = 4
+    DISLIKE = 2
+    HATE = 1
 
 class Gift():
     def __init__(self, npc, prop, gift_level, favor):
@@ -209,6 +224,32 @@ def load_npcs(session):
     print(f'{len(npcs)} npcs loaded.')
 
 def load_props(session):
+    def _determine_type(prop):
+        prop_id = prop.Props_Id
+        if prop_id in food_props:
+            return PropType.COOKABLE_PC
+        elif prop_id in ack_props:
+            return PropType.COOKABLE_ACK
+        elif prop_id in relic_props:
+            return PropType.RELIC
+        elif prop_id in craftable_props:
+            return PropType.CRAFTABLE
+        else:
+            return PropType.OTHER
+    def _determine_universality(prop):
+        prop_gift_tags = prop.Gift_TagID.split(',')
+
+        if str(UniversalGiftTypes.LOVE.value) in prop_gift_tags:
+            return UniversalGiftTypes.LOVE
+        elif str(UniversalGiftTypes.LIKE.value) in prop_gift_tags:
+            return UniversalGiftTypes.LIKE
+        elif str(UniversalGiftTypes.DISLIKE.value) in prop_gift_tags:
+            return UniversalGiftTypes.DISLIKE
+        elif str(UniversalGiftTypes.HATE.value) in prop_gift_tags:
+            return UniversalGiftTypes.HATE
+        else:
+            return UniversalGiftTypes.NONE
+
     global props
     db_props = session.query(DB_Props).all()
     food_props = [f[0] for f in session.query(DB_CookBook.Food)]
@@ -217,18 +258,10 @@ def load_props(session):
     craftable_props = [c[0] for c in session.query(DB_Craft.Item_Id)]
 
     for prop in db_props:
-        prop_id = prop.Props_Id
-        prop_type = PropType.OTHER
-        if prop_id in food_props:
-            prop_type = PropType.COOKABLE_PC
-        elif prop_id in ack_props:
-            prop_type = PropType.COOKABLE_ACK
-        elif prop_id in relic_props:
-            prop_type = PropType.RELIC
-        elif prop_id in craftable_props:
-            prop_type = PropType.CRAFTABLE
+        prop_type = _determine_type(prop)
+        prop_universality = _determine_universality(prop)
 
-        loaded_prop = Prop(prop, prop_type)
+        loaded_prop = Prop(prop, prop_type, prop_universality)
         if loaded_prop.include():
             props.append(loaded_prop)
     props = sorted(props, key=lambda x: x.name)
@@ -304,7 +337,7 @@ if __name__ == "__main__":
             types.add(p)
     # print(types)
 
-    [print(prop) for prop in props]
+    [print(prop) for prop in props if prop.universal_type != UniversalGiftTypes.NONE]
 
 
 
