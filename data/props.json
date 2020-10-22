@@ -1,0 +1,4406 @@
+[
+    {
+        "id": "4000311",
+        "name": "AI Chipset",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000173",
+        "name": "AI Model",
+        "type": 2,
+        "universality": 0
+    },
+    {
+        "id": "7020005",
+        "name": "Abandon Tag",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000316",
+        "name": "Advanced Composite Board",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "4000274",
+        "name": "Advanced Engine",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000283",
+        "name": "Aluminum Ore",
+        "type": 10,
+        "universality": 4
+    },
+    {
+        "id": "4000155",
+        "name": "Aluminum Wires",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "2030012",
+        "name": "Ammo",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "3000240",
+        "name": "Ancient Computer",
+        "type": 2,
+        "universality": 0
+    },
+    {
+        "id": "4000096",
+        "name": "Animal Bones",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000011",
+        "name": "Animal Fat",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000135",
+        "name": "Animal Feces",
+        "type": 10,
+        "universality": 4
+    },
+    {
+        "id": "4000098",
+        "name": "Animal Skeleton",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "7000086",
+        "name": "Apology Bear",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000047",
+        "name": "Apple",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "2000002",
+        "name": "Apple Juice",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "4000034",
+        "name": "Apricot",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "2000061",
+        "name": "Apricot Juice",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "7000058",
+        "name": "Arm Stretcher",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "3000055",
+        "name": "Armor of a Knight",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000014",
+        "name": "Aroma Apple",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000033",
+        "name": "Asteria",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "7000015",
+        "name": "Asteria",
+        "type": 10,
+        "universality": 2
+    },
+    {
+        "id": "3000168",
+        "name": "Autumn Doll",
+        "type": 2,
+        "universality": 0
+    },
+    {
+        "id": "3000268",
+        "name": "Autumn Festival Banner",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "7000125",
+        "name": "Baby Milk Powder",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "2000025",
+        "name": "Bacon Fish Roll",
+        "type": 0,
+        "universality": 0
+    },
+    {
+        "id": "2000005",
+        "name": "Baked Bread",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "7000030",
+        "name": "Balloon",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000289",
+        "name": "Balloons in a Bottle",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "2010011",
+        "name": "Bamboo Incense",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000043",
+        "name": "Bamboo Papaya",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "2000052",
+        "name": "Bamboo Papaya with Egg-on-Top",
+        "type": 0,
+        "universality": 0
+    },
+    {
+        "id": "4000093",
+        "name": "Bandage",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000020",
+        "name": "Banner Fish",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "2000021",
+        "name": "Banner Fish Sushi",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000158",
+        "name": "Basic Sewing Machine",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000161",
+        "name": "Bat's Wing",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "7000105",
+        "name": "Bear Wishing Lantern",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000197",
+        "name": "Bearing",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "4000302",
+        "name": "Beef",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "1005001",
+        "name": "Beginner's Fishing Rod",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "7000095",
+        "name": "Bell Collar",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "4000086",
+        "name": "Bird Nest",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000010",
+        "name": "Blade Fish",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "2000030",
+        "name": "Blade Fish Mushroom Soup",
+        "type": 0,
+        "universality": 0
+    },
+    {
+        "id": "3000159",
+        "name": "Blonde Doll",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000079",
+        "name": "Blood Stone",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "2030007",
+        "name": "Blue Fireworks",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "4000062",
+        "name": "Blue Leather",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000126",
+        "name": "Blue Mackerel",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "7000009",
+        "name": "Blue Scarf",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000114",
+        "name": "Bonsai",
+        "type": 2,
+        "universality": 0
+    },
+    {
+        "id": "7000067",
+        "name": "Bookmark",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000009",
+        "name": "Bookshelf",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "3000263",
+        "name": "Boundary Carpet",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000195",
+        "name": "Brick Flower Stand",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "7000043",
+        "name": "Broken Mirror",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "1004002",
+        "name": "Bronze Axe",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "4000142",
+        "name": "Bronze Bar",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "1007002",
+        "name": "Bronze Pickaxe",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "4000146",
+        "name": "Bronze Pipe",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "4000149",
+        "name": "Bronze Plate",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "1001003",
+        "name": "Bronze Sword",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "1510203",
+        "name": "Bronze Sword",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "1510204",
+        "name": "Bronze Sword",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "1510206",
+        "name": "Bronze Sword",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "1510207",
+        "name": "Bronze Sword",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "1510208",
+        "name": "Bronze Sword",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "1510209",
+        "name": "Bronze Sword",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "1510210",
+        "name": "Bronze Sword",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "1510212",
+        "name": "Bronze Sword",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "1510213",
+        "name": "Bronze Sword",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "1510215",
+        "name": "Bronze Sword",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "1510216",
+        "name": "Bronze Sword",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "7000077",
+        "name": "Brooch",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000259",
+        "name": "Broom",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000182",
+        "name": "Bubble Machine",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "1002001",
+        "name": "Bubble Wand",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000068",
+        "name": "Bubblefish",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "2000059",
+        "name": "Bubblefish Soup",
+        "type": 0,
+        "universality": 0
+    },
+    {
+        "id": "2000038",
+        "name": "Bubblefish Stew",
+        "type": 0,
+        "universality": 0
+    },
+    {
+        "id": "4000022",
+        "name": "Bug Egg",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "7000106",
+        "name": "Bunny Wishing Lantern",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "7000037",
+        "name": "Busy Farm",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "7000045",
+        "name": "Butterfly Hairpin",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000124",
+        "name": "Cactus Fruit",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "7000124",
+        "name": "Camera",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "4000100",
+        "name": "Carbon Fiber",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000025",
+        "name": "Carbon Steel Bar",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "1021998",
+        "name": "Cardboard Box",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "7000070",
+        "name": "Carving Knife",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000204",
+        "name": "Cassette Box",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "7000020",
+        "name": "Casual Hoodie",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "1301605",
+        "name": "Casual Welding Pants",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "1301607",
+        "name": "Casual Welding Pants",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "1301608",
+        "name": "Casual Welding Pants",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "1301612",
+        "name": "Casual Welding Pants",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "1301614",
+        "name": "Casual Welding Pants",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "7000102",
+        "name": "Cat Ears Umbrella Hat",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "7000113",
+        "name": "Cat Tag",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000191",
+        "name": "Cat-Ear Patio Umbrella",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "2030001",
+        "name": "Caterpillar",
+        "type": 10,
+        "universality": 3
+    },
+    {
+        "id": "4000127",
+        "name": "Catfish",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000116",
+        "name": "Catmaid Statue",
+        "type": 2,
+        "universality": 0
+    },
+    {
+        "id": "3000279",
+        "name": "Cauldron",
+        "type": 2,
+        "universality": 0
+    },
+    {
+        "id": "3000300",
+        "name": "Celebration Flowers",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000288",
+        "name": "Celebration Lamp Post",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "1004005",
+        "name": "Chainsaw",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000158",
+        "name": "Charcoal",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "2000022",
+        "name": "Cheap Soda",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000198",
+        "name": "Cheese",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000173",
+        "name": "Chicken",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "7000046",
+        "name": "Chicken Earrings",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "2000067",
+        "name": "Chicken Risotto with Coconut",
+        "type": 0,
+        "universality": 0
+    },
+    {
+        "id": "7020004",
+        "name": "Children Doll",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000048",
+        "name": "Chili Pepper",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000053",
+        "name": "Chrysanthemum",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000078",
+        "name": "Cinnamon",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "1005002",
+        "name": "Classic Fishing Rod",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "2000055",
+        "name": "Classic Spaghetti with Meat Sauce",
+        "type": 0,
+        "universality": 0
+    },
+    {
+        "id": "3000175",
+        "name": "Clay Figure: Female",
+        "type": 2,
+        "universality": 0
+    },
+    {
+        "id": "3000174",
+        "name": "Clay Figure: Male",
+        "type": 2,
+        "universality": 0
+    },
+    {
+        "id": "3000278",
+        "name": "Clear Sky Doll",
+        "type": 2,
+        "universality": 0
+    },
+    {
+        "id": "4000002",
+        "name": "Cloth",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "3000094",
+        "name": "Clothing Basket",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000078",
+        "name": "Coarse Rug",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000112",
+        "name": "Coconut",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000021",
+        "name": "Colorful Fur",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "1021999",
+        "name": "Colorful Hat",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "7000066",
+        "name": "Colorful Swimsuit",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000106",
+        "name": "Compressor",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000142",
+        "name": "Concave Mirror",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000300",
+        "name": "Concrete",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "4000285",
+        "name": "Condensed Power Stone",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000143",
+        "name": "Convex Mirror",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "7000035",
+        "name": "Cooking Master",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000262",
+        "name": "Cooking Pot",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "7000129",
+        "name": "Cooler Hat",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "4000110",
+        "name": "Copper Bar",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "4000144",
+        "name": "Copper Blade",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "4000036",
+        "name": "Copper Coil",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "4000013",
+        "name": "Copper Ore",
+        "type": 10,
+        "universality": 4
+    },
+    {
+        "id": "4000150",
+        "name": "Copper Pipe",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "4000145",
+        "name": "Copper Plate",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "4000154",
+        "name": "Copper Wire",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "4000024",
+        "name": "Coral",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "7000087",
+        "name": "Coral Necklace",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "3000280",
+        "name": "Coral Tree",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "4000089",
+        "name": "Coriander",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000177",
+        "name": "Cornball",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000003",
+        "name": "Cotton",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000152",
+        "name": "Craft Candle",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "7000071",
+        "name": "Crafter's Toolbox",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "2000057",
+        "name": "Creamy Salmon Stew",
+        "type": 0,
+        "universality": 0
+    },
+    {
+        "id": "2000042",
+        "name": "Crispy Salmon with Sauce",
+        "type": 0,
+        "universality": 0
+    },
+    {
+        "id": "4000120",
+        "name": "Crystal",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "7000079",
+        "name": "Crystal Chandelier",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "3080003",
+        "name": "Crystal Fish Tank",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000151",
+        "name": "Crystal Hourglass",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "7000019",
+        "name": "Crystal Necklace",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "3000146",
+        "name": "Crystal Statue",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "4000196",
+        "name": "Cultivated Soil",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "4000090",
+        "name": "Cumin",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000089",
+        "name": "Cupboard",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000059",
+        "name": "Cushioned Couch",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000066",
+        "name": "Cushioned Stool",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000277",
+        "name": "Damour Roly-Poly",
+        "type": 2,
+        "universality": 0
+    },
+    {
+        "id": "3000004",
+        "name": "Dark Coffee Table",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "2060001",
+        "name": "Data Disc",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "7000075",
+        "name": "Decocting Pot",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "2000031",
+        "name": "Deep Fried Ribs",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000016",
+        "name": "Delicate Fur",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "2000049",
+        "name": "Delicious Roasted Ribs",
+        "type": 0,
+        "universality": 0
+    },
+    {
+        "id": "7000057",
+        "name": "Deluxe Fishing Kit",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "7000028",
+        "name": "Desk Lamp",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "4000171",
+        "name": "Diamond",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000014",
+        "name": "Dining Table",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "7000121",
+        "name": "Dinosaur car",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "7000111",
+        "name": "Diving Helmet",
+        "type": 2,
+        "universality": 0
+    },
+    {
+        "id": "2030010",
+        "name": "Dog Food",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "7000110",
+        "name": "Dog Tag",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000258",
+        "name": "Double Door Wooden Cabinet",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000299",
+        "name": "Double Drawer",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "2030002",
+        "name": "Dough",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "3000140",
+        "name": "Dream Lamp",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "2000006",
+        "name": "Dried Apple Slice",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "2000009",
+        "name": "Dried Apricot",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "2000011",
+        "name": "Dried Blade Fish",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "3000138",
+        "name": "Drum",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000109",
+        "name": "Duck on a King",
+        "type": 2,
+        "universality": 0
+    },
+    {
+        "id": "4000006",
+        "name": "Egg",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "1301505",
+        "name": "Elegant Dress Bottom",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "1301507",
+        "name": "Elegant Dress Bottom",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "1301508",
+        "name": "Elegant Dress Bottom",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "1301512",
+        "name": "Elegant Dress Bottom",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "1301514",
+        "name": "Elegant Dress Bottom",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000147",
+        "name": "Elephant Fountain",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000244",
+        "name": "Emperor Banner Fish",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000248",
+        "name": "Emperor Blade Fish",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000257",
+        "name": "Emperor Blue Mackerel",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000249",
+        "name": "Emperor Bubblefish",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000246",
+        "name": "Emperor Catfish",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000247",
+        "name": "Emperor Firefish",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000250",
+        "name": "Emperor Frog Fish",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000253",
+        "name": "Emperor Gladiator Fish",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000245",
+        "name": "Emperor Golden Salmon",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000255",
+        "name": "Emperor Goliath",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000252",
+        "name": "Emperor Koi Fish",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000254",
+        "name": "Emperor Lantern Fish",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000256",
+        "name": "Emperor Wise Fish",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "7000052",
+        "name": "Exquisite Fountain Pen",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000066",
+        "name": "Eye Glass",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000097",
+        "name": "Eye Patch",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000268",
+        "name": "Eye of the Tiger",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000025",
+        "name": "Fan",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000180",
+        "name": "Fan Model",
+        "type": 2,
+        "universality": 0
+    },
+    {
+        "id": "7000068",
+        "name": "Feather Duster",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "7000100",
+        "name": "Feather Scarf",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "2040001",
+        "name": "Fertilizer",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "4000080",
+        "name": "Fiber Cloth",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "3000088",
+        "name": "File Cabinet",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000131",
+        "name": "Firefish",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000082",
+        "name": "Fireplace",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "2010003",
+        "name": "First Aid Kit",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "2000050",
+        "name": "Fish Porridge",
+        "type": 0,
+        "universality": 0
+    },
+    {
+        "id": "3000108",
+        "name": "Fish Sub",
+        "type": 2,
+        "universality": 0
+    },
+    {
+        "id": "1004004",
+        "name": "Fisherman's Axe",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "1007004",
+        "name": "Fisherman's Pickaxe",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "2000053",
+        "name": "Fishhead Stewed in Soy Sauce",
+        "type": 0,
+        "universality": 0
+    },
+    {
+        "id": "7000090",
+        "name": "Five Hundred Creative Designs",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "7020003",
+        "name": "Floor Brush",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000028",
+        "name": "Flour",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "3000022",
+        "name": "Flower Carpet",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "4000055",
+        "name": "Flower Pot",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "7000048",
+        "name": "Flower Scooper",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "7000029",
+        "name": "Flowery Soap",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "7000006",
+        "name": "Fluffy Pendant",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "3000150",
+        "name": "Fluffy Rabbit",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000172",
+        "name": "Fortune Cat",
+        "type": 2,
+        "universality": 0
+    },
+    {
+        "id": "3000155",
+        "name": "Fossil Replica",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000301",
+        "name": "Framed Happiness",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "7000115",
+        "name": "French Horn",
+        "type": 2,
+        "universality": 0
+    },
+    {
+        "id": "2000072",
+        "name": "Fried Rice with Radish",
+        "type": 1,
+        "universality": 0
+    },
+    {
+        "id": "4000105",
+        "name": "Frog Fish",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "2000007",
+        "name": "Fruit Salad",
+        "type": 0,
+        "universality": 0
+    },
+    {
+        "id": "2000054",
+        "name": "Fruit Tart",
+        "type": 0,
+        "universality": 0
+    },
+    {
+        "id": "4000027",
+        "name": "Fur",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "7000021",
+        "name": "Furry Scarf",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "3000100",
+        "name": "Galloping Horse",
+        "type": 2,
+        "universality": 0
+    },
+    {
+        "id": "4000117",
+        "name": "Gear",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "7000107",
+        "name": "Ghost Wishing Lantern",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000054",
+        "name": "Ginger",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000056",
+        "name": "Gladiator Fish",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000019",
+        "name": "Glass",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "3000070",
+        "name": "Glass Cabinet",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000098",
+        "name": "Goddess Statue",
+        "type": 2,
+        "universality": 0
+    },
+    {
+        "id": "3000149",
+        "name": "Gold Trophy",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000297",
+        "name": "Golden Clock",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000310",
+        "name": "Golden Ginseng",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "7000108",
+        "name": "Golden Hairclip",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "7000050",
+        "name": "Golden Necklace",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "2000028",
+        "name": "Golden Radish Soup",
+        "type": 0,
+        "universality": 0
+    },
+    {
+        "id": "4000032",
+        "name": "Golden Salmon",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "7000078",
+        "name": "Golden Toad",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000070",
+        "name": "Goliath",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000056",
+        "name": "Grapevines",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "2030006",
+        "name": "Green Fireworks",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "7000094",
+        "name": "Green Umbrella Hat",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000186",
+        "name": "Grinding Blade",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "4000160",
+        "name": "Grinding Saw",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "4000156",
+        "name": "Grinding Stone",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "4000114",
+        "name": "Gunpowder",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "3000291",
+        "name": "Hanging Flower Basket",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000315",
+        "name": "Hard Shell",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000269",
+        "name": "Hardened Clay",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "4000077",
+        "name": "Hardwood",
+        "type": 10,
+        "universality": 3
+    },
+    {
+        "id": "3000096",
+        "name": "Hardwood Couch",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000071",
+        "name": "Hardwood Plank",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "3000013",
+        "name": "Hardwood Sofa",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "7000074",
+        "name": "Harmonica",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "7000041",
+        "name": "Heart Knot",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "2000056",
+        "name": "Herbal Juice",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "2010001",
+        "name": "Herbal Mixture",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "4000015",
+        "name": "Herbs",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000084",
+        "name": "Honey",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000050",
+        "name": "Honeybee Wax",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000243",
+        "name": "Horse Head Floor Lamp",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000161",
+        "name": "Hospital Bed",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "3000245",
+        "name": "Hurdle",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000297",
+        "name": "Igneous Rock",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000145",
+        "name": "Incense Burner",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000185",
+        "name": "Industrial Core",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "4000101",
+        "name": "Industrial Engine",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "7020001",
+        "name": "Invitation Letter",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "1004003",
+        "name": "Iron Axe",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "4000107",
+        "name": "Iron Bar",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "4000035",
+        "name": "Iron Ore",
+        "type": 10,
+        "universality": 4
+    },
+    {
+        "id": "7000031",
+        "name": "Iron Pan",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "1007003",
+        "name": "Iron Pickaxe",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "1001004",
+        "name": "Iron Sword",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "1510304",
+        "name": "Iron Sword",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "1510306",
+        "name": "Iron Sword",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "1510307",
+        "name": "Iron Sword",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "1510308",
+        "name": "Iron Sword",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "1510309",
+        "name": "Iron Sword",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "1510310",
+        "name": "Iron Sword",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "1510313",
+        "name": "Iron Sword",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "1510315",
+        "name": "Iron Sword",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000219",
+        "name": "Iron Wooden Plank",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "4000085",
+        "name": "Ironwood",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3043001",
+        "name": "Irrigation Tower",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000240",
+        "name": "Jet Tube",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "7000007",
+        "name": "Jewelry Box",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "3000246",
+        "name": "Jockey Statue",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "7000036",
+        "name": "Journey to the East",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "7000040",
+        "name": "Joystick",
+        "type": 2,
+        "universality": 0
+    },
+    {
+        "id": "3000170",
+        "name": "Keypad",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "2000075",
+        "name": "King Salmon Fillet",
+        "type": 1,
+        "universality": 0
+    },
+    {
+        "id": "3000215",
+        "name": "Kingfisher Pennant",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "7000044",
+        "name": "Knight's Shield",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000125",
+        "name": "Koi Fish",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000254",
+        "name": "Kungfu Sack",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000128",
+        "name": "Lantern Fish",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000061",
+        "name": "Large Bookshelf",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000220",
+        "name": "Large Iron Bucket",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "3000232",
+        "name": "Large Office Desk",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "3041002",
+        "name": "Large Planter Box",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000304",
+        "name": "Layered Bookshelf",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000061",
+        "name": "Layered Carrot",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000206",
+        "name": "Lead Bar",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "4000118",
+        "name": "Lead Ore",
+        "type": 10,
+        "universality": 4
+    },
+    {
+        "id": "4000143",
+        "name": "Leather",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "7000061",
+        "name": "Leather Belt",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "3000058",
+        "name": "Leather Chair",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000187",
+        "name": "Leather Horn",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "3000011",
+        "name": "Leather Sofa",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000018",
+        "name": "Lemon",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "7000103",
+        "name": "Leopard Hairclip",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000023",
+        "name": "Lettuce",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000176",
+        "name": "Linen",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000023",
+        "name": "Linen Rug",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "3000086",
+        "name": "Little Bear Sofa",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000248",
+        "name": "Llama Memorabillia Blanket",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000153",
+        "name": "Llama Sculpture",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000058",
+        "name": "Lobster Claw",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000059",
+        "name": "Lobster Meat",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "7000054",
+        "name": "Logic Cube",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000252",
+        "name": "Lotus Lamp",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000295",
+        "name": "Love Sofa",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000132",
+        "name": "Lubricant",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "2070002",
+        "name": "Lucky Chest",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000124",
+        "name": "Lucky Cover",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "2070001",
+        "name": "Lucky Sack",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000107",
+        "name": "Magic Lamp",
+        "type": 2,
+        "universality": 0
+    },
+    {
+        "id": "4000284",
+        "name": "Magnesium Ore",
+        "type": 10,
+        "universality": 4
+    },
+    {
+        "id": "4000317",
+        "name": "Magnesium Powder",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "7000047",
+        "name": "Magnetic Bracelet",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "2030009",
+        "name": "Magnifying Glass",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "3000144",
+        "name": "Man-eater Sofa",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000119",
+        "name": "Manganese Ore",
+        "type": 10,
+        "universality": 4
+    },
+    {
+        "id": "4000069",
+        "name": "Manganese Steel Bar",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "4000121",
+        "name": "Marble",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000201",
+        "name": "Marble Arbor",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000199",
+        "name": "Marble Courtyard Chair",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000203",
+        "name": "Marble Flower Bed",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000202",
+        "name": "Marble Flower Square",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000200",
+        "name": "Marble Flower Stand",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000198",
+        "name": "Marble Fountain",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000157",
+        "name": "Marble Plank",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "3000204",
+        "name": "Marble Street Light",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000216",
+        "name": "Martial Arts Legend Pennant",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000053",
+        "name": "Massage Chair",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000217",
+        "name": "Master Rider Pennant",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000009",
+        "name": "Meat",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "2000051",
+        "name": "Meat and Mushrooms Stew",
+        "type": 0,
+        "universality": 0
+    },
+    {
+        "id": "2000048",
+        "name": "Meatballs and Vegetable Soup",
+        "type": 0,
+        "universality": 0
+    },
+    {
+        "id": "3000057",
+        "name": "Meeting Table",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000241",
+        "name": "Metal Jar",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000026",
+        "name": "Metal Storage",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "4000309",
+        "name": "Military Engine",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000103",
+        "name": "Milk",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "7000120",
+        "name": "Milk Bottle",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "2000058",
+        "name": "Milk Tea",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "3000062",
+        "name": "Mini-Bar",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "1000001",
+        "name": "Mini-Drill",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000106",
+        "name": "Monster Toy",
+        "type": 2,
+        "universality": 0
+    },
+    {
+        "id": "3000115",
+        "name": "Monument Model",
+        "type": 2,
+        "universality": 0
+    },
+    {
+        "id": "4000260",
+        "name": "Mop",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000284",
+        "name": "Moving Closet",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000081",
+        "name": "Mucus",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "7000059",
+        "name": "Multi-function Knife",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000181",
+        "name": "Multi-purpose Tea Table",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "2000036",
+        "name": "Mushroom Crepe with Fruit Sauce",
+        "type": 0,
+        "universality": 0
+    },
+    {
+        "id": "4000057",
+        "name": "Mustard",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "7020006",
+        "name": "Name Card",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000038",
+        "name": "Nitre",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "2000010",
+        "name": "Nori",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "2000026",
+        "name": "Nori Burrito",
+        "type": 0,
+        "universality": 0
+    },
+    {
+        "id": "1001005",
+        "name": "Nova Sword",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "1510406",
+        "name": "Nova Sword",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "1510407",
+        "name": "Nova Sword",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "1510408",
+        "name": "Nova Sword",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "1510409",
+        "name": "Nova Sword",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "1510410",
+        "name": "Nova Sword",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000262",
+        "name": "Ocean Blue Carpet",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "7000064",
+        "name": "Oil Brush",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000141",
+        "name": "Old Basin",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000040",
+        "name": "Old Parts",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000110",
+        "name": "Old Talker",
+        "type": 2,
+        "universality": 0
+    },
+    {
+        "id": "3000099",
+        "name": "Old Thermos",
+        "type": 2,
+        "universality": 0
+    },
+    {
+        "id": "3000054",
+        "name": "One-legged Dining Table",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000122",
+        "name": "Orange",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000065",
+        "name": "Orange Sofa",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000111",
+        "name": "Owl Clock",
+        "type": 2,
+        "universality": 0
+    },
+    {
+        "id": "3000275",
+        "name": "Painting: A City on the Sea",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000303",
+        "name": "Painting: Carp and Lotus.",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "7000033",
+        "name": "Painting: Distant Mountains",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "7000082",
+        "name": "Painting: Kitty",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "7000032",
+        "name": "Painting: Redstone",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "7000034",
+        "name": "Painting: The Lonely Windmill",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "7000039",
+        "name": "Painting:Girl",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "7000038",
+        "name": "Painting:Street",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "7000083",
+        "name": "Painting\uff1aBoy",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000175",
+        "name": "Palm Jujube",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "7000003",
+        "name": "Panbat Mask",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "7000080",
+        "name": "Paper Flower",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000092",
+        "name": "Patio Umbrella",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000020",
+        "name": "Paw Mat",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "7000056",
+        "name": "Peach's Amulet",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "8000112",
+        "name": "Pepperiffic Beef Burger",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000163",
+        "name": "Perfect Fur",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000133",
+        "name": "Performance Center Model",
+        "type": 2,
+        "universality": 0
+    },
+    {
+        "id": "7000001",
+        "name": "Photo Album",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "3000075",
+        "name": "Piano",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000076",
+        "name": "Piano Bench",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "1007001",
+        "name": "Pickaxe",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "7000114",
+        "name": "Pig Tag",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000298",
+        "name": "Piggy Sofa",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000074",
+        "name": "Pigments",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "4000313",
+        "name": "Pine Cone",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "7000005",
+        "name": "Pinecock Costume",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "7000099",
+        "name": "Pinecock's Crown",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "7000097",
+        "name": "Pinecock's Glasses",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "7000088",
+        "name": "Pink Cat's Ears",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000087",
+        "name": "Plaid Rug",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000177",
+        "name": "Plane Model",
+        "type": 2,
+        "universality": 0
+    },
+    {
+        "id": "4000138",
+        "name": "Plant Fiber",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000253",
+        "name": "Plum Blossom Lantern",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000261",
+        "name": "Plunger",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000121",
+        "name": "Pointy Nosed Snowman",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000308",
+        "name": "Poison Fang",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000247",
+        "name": "Pony Table Lamp",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "7000098",
+        "name": "Poppycock's Glasses",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000264",
+        "name": "Porcelain Plate",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000112",
+        "name": "Porcelain Waterholder",
+        "type": 2,
+        "universality": 0
+    },
+    {
+        "id": "3000261",
+        "name": "Portian Rug",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000016",
+        "name": "Pot of Asteria",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "4000029",
+        "name": "Potato Fruit",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000125",
+        "name": "Power Lamp",
+        "type": 2,
+        "universality": 0
+    },
+    {
+        "id": "4000115",
+        "name": "Power Stone",
+        "type": 10,
+        "universality": 2
+    },
+    {
+        "id": "1001001",
+        "name": "Practice Sword",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "1510102",
+        "name": "Practice Sword",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "1510103",
+        "name": "Practice Sword",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "1510104",
+        "name": "Practice Sword",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "1510105",
+        "name": "Practice Sword",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "1510106",
+        "name": "Practice Sword",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "1510107",
+        "name": "Practice Sword",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "1510108",
+        "name": "Practice Sword",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "1510109",
+        "name": "Practice Sword",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "1510110",
+        "name": "Practice Sword",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "1510111",
+        "name": "Practice Sword",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "1510112",
+        "name": "Practice Sword",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "1510113",
+        "name": "Practice Sword",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "1510114",
+        "name": "Practice Sword",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "1510115",
+        "name": "Practice Sword",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "1510116",
+        "name": "Practice Sword",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000318",
+        "name": "Precision Parts",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "3000068",
+        "name": "Printing Press",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000071",
+        "name": "Privacy Screen",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "7000092",
+        "name": "Propeller Umbrella Hat",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000159",
+        "name": "Pulley",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "4000091",
+        "name": "Pumpkin",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "2000045",
+        "name": "Pumpkin Pie",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "2000035",
+        "name": "Pumpkin Shrimp Soup",
+        "type": 0,
+        "universality": 0
+    },
+    {
+        "id": "2000044",
+        "name": "Pumpkin Steamed Rice",
+        "type": 0,
+        "universality": 0
+    },
+    {
+        "id": "2030008",
+        "name": "Purple Fireworks",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "3000045",
+        "name": "Purple Hydrangea",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000312",
+        "name": "Purple Resin",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000133",
+        "name": "Quality Leather",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "3000120",
+        "name": "Rabbit Snowman",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000249",
+        "name": "Race Horse Memorabillia Blanket",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000263",
+        "name": "Racket",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000044",
+        "name": "Rainbow Flower",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000073",
+        "name": "Rainbow Flower Pot",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "2000013",
+        "name": "Rainbow Lemonade",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "3000293",
+        "name": "Rainbow Photo Frame",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "7000123",
+        "name": "Rainbow caterpillar",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000194",
+        "name": "Rattan Chair",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "2030004",
+        "name": "Red Firework",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "1001304",
+        "name": "Red Hawk",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "3000123",
+        "name": "Red Heart Knot",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000018",
+        "name": "Red Lamp",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000152",
+        "name": "Red Mushroom",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000091",
+        "name": "Red Patio Umbrella",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "2000043",
+        "name": "Red Tea",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "7000101",
+        "name": "Red Tie",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000049",
+        "name": "Resin",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "4000104",
+        "name": "Rice",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "2000046",
+        "name": "Roasted Meat",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "2000037",
+        "name": "Roasted Pork with Honey",
+        "type": 0,
+        "universality": 0
+    },
+    {
+        "id": "2000073",
+        "name": "Roasted Turkey",
+        "type": 1,
+        "universality": 0
+    },
+    {
+        "id": "4000017",
+        "name": "Rock Salt",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000176",
+        "name": "Rocket Model",
+        "type": 2,
+        "universality": 0
+    },
+    {
+        "id": "4000099",
+        "name": "Rogue's Headband",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "7020002",
+        "name": "Roller Brush",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000113",
+        "name": "Rope",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "7000016",
+        "name": "Roses",
+        "type": 10,
+        "universality": 1
+    },
+    {
+        "id": "4000282",
+        "name": "Royal Honey",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "7000122",
+        "name": "Rubber Duck",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000042",
+        "name": "Rubber Fruit",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000116",
+        "name": "Rubber Tire",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "4000063",
+        "name": "Ruby",
+        "type": 10,
+        "universality": 2
+    },
+    {
+        "id": "1001002",
+        "name": "Rusty Iron Pipe",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000051",
+        "name": "Safety Box",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "3000178",
+        "name": "Sailboat Model",
+        "type": 2,
+        "universality": 0
+    },
+    {
+        "id": "2000001",
+        "name": "Salad Sauce",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "4000039",
+        "name": "Salt",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "2000012",
+        "name": "Salty Grilled Catfish",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "2000018",
+        "name": "Salty Stew Mix",
+        "type": 0,
+        "universality": 0
+    },
+    {
+        "id": "4000005",
+        "name": "Sand",
+        "type": 10,
+        "universality": 3
+    },
+    {
+        "id": "3000093",
+        "name": "Sandbox Table",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000148",
+        "name": "Sapphire",
+        "type": 10,
+        "universality": 2
+    },
+    {
+        "id": "7000084",
+        "name": "Sapphire Photo Frame",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "7000049",
+        "name": "Sapphire Ring",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "2000008",
+        "name": "Sashimi",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000274",
+        "name": "Scarecrow",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000171",
+        "name": "Sculpted Lion",
+        "type": 2,
+        "universality": 0
+    },
+    {
+        "id": "2000039",
+        "name": "Seafood Noodles",
+        "type": 0,
+        "universality": 0
+    },
+    {
+        "id": "2000047",
+        "name": "Seafood Paella",
+        "type": 0,
+        "universality": 0
+    },
+    {
+        "id": "2000024",
+        "name": "Seafood Stew Mix",
+        "type": 0,
+        "universality": 0
+    },
+    {
+        "id": "4000052",
+        "name": "Seaweed",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "2000076",
+        "name": "Secret Fish King Soup",
+        "type": 1,
+        "universality": 0
+    },
+    {
+        "id": "4000305",
+        "name": "Sewing Head",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000166",
+        "name": "Shaggy Mane",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "7000093",
+        "name": "Sharp Umbrella Hat",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000007",
+        "name": "Shell",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "7000018",
+        "name": "Shell Necklace",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "3000238",
+        "name": "Ship in a Bottle",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000074",
+        "name": "Short Stool",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "2000029",
+        "name": "Shrimp and Cheese on Rice",
+        "type": 0,
+        "universality": 0
+    },
+    {
+        "id": "4000108",
+        "name": "Silicon Chipset",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "7000022",
+        "name": "Silk Scarf",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "2020001",
+        "name": "Simple Antidote",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "1004001",
+        "name": "Simple Axe",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "4000141",
+        "name": "Simple Circuits",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000005",
+        "name": "Simple Desk",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "2010002",
+        "name": "Simple Ointment",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "4000136",
+        "name": "Single Seat",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "7000069",
+        "name": "Slingshot",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "7000116",
+        "name": "Slipper (left)",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "7000117",
+        "name": "Slipper (right)",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000200",
+        "name": "Small Bomb",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "3000015",
+        "name": "Small Chair",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "3000024",
+        "name": "Small Clock",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "7000073",
+        "name": "Small Dagger",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000072",
+        "name": "Small Engine",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000296",
+        "name": "Small Flower Rack",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3041001",
+        "name": "Small Planter Box",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "3000063",
+        "name": "Small Potted Purple Hydrangea",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "7000012",
+        "name": "Small Satchel",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "4000083",
+        "name": "Small Silicon Chip",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000067",
+        "name": "Small Waste Bin",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "7000104",
+        "name": "Smiley Face Wishing Lantern",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "2000033",
+        "name": "Smoked Fish Roll",
+        "type": 0,
+        "universality": 0
+    },
+    {
+        "id": "2000071",
+        "name": "Smoked Ham",
+        "type": 1,
+        "universality": 0
+    },
+    {
+        "id": "2000004",
+        "name": "Smoked Meat",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000076",
+        "name": "Snake Berry",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000164",
+        "name": "Snake Meat",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000165",
+        "name": "Snake Skin",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000092",
+        "name": "Snake's Gallblader",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000119",
+        "name": "Snowman with a Red Scarf",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000008",
+        "name": "Soil",
+        "type": 10,
+        "universality": 3
+    },
+    {
+        "id": "3000102",
+        "name": "Soldier with Axe",
+        "type": 2,
+        "universality": 0
+    },
+    {
+        "id": "3000103",
+        "name": "Soldier with Blade",
+        "type": 2,
+        "universality": 0
+    },
+    {
+        "id": "3000104",
+        "name": "Soldier with Lance",
+        "type": 2,
+        "universality": 0
+    },
+    {
+        "id": "3000101",
+        "name": "Soldier with Scepter",
+        "type": 2,
+        "universality": 0
+    },
+    {
+        "id": "3000052",
+        "name": "Solid Wood Clock",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000122",
+        "name": "Solstice Lantern",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000118",
+        "name": "Solstice Tree",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000117",
+        "name": "Solstice Wreath",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "2000034",
+        "name": "Spaghetti with Hot Sauce",
+        "type": 0,
+        "universality": 0
+    },
+    {
+        "id": "2000041",
+        "name": "Special Salmon Fried Rice",
+        "type": 0,
+        "universality": 0
+    },
+    {
+        "id": "3000179",
+        "name": "Sphere Trophy",
+        "type": 2,
+        "universality": 0
+    },
+    {
+        "id": "2000068",
+        "name": "Spiced Steak",
+        "type": 0,
+        "universality": 0
+    },
+    {
+        "id": "2000015",
+        "name": "Spicy Fish Soup",
+        "type": 0,
+        "universality": 0
+    },
+    {
+        "id": "2000019",
+        "name": "Spicy Stew Mix",
+        "type": 0,
+        "universality": 0
+    },
+    {
+        "id": "2000062",
+        "name": "Spicy Tea",
+        "type": 0,
+        "universality": 0
+    },
+    {
+        "id": "4000140",
+        "name": "Spider's Web",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000037",
+        "name": "Spines",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000075",
+        "name": "Spring",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000166",
+        "name": "Spring Doll",
+        "type": 2,
+        "universality": 0
+    },
+    {
+        "id": "3000060",
+        "name": "Square Table",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000111",
+        "name": "Starlight Coral",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "7000096",
+        "name": "Starry Collar",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "2000074",
+        "name": "Steak with Coconut Juice",
+        "type": 1,
+        "universality": 0
+    },
+    {
+        "id": "2000003",
+        "name": "Steamed Potato Fruit",
+        "type": 0,
+        "universality": 0
+    },
+    {
+        "id": "4000041",
+        "name": "Steel Ball",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "4000082",
+        "name": "Steel Cable",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "4000216",
+        "name": "Steel Plate",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "2000060",
+        "name": "Stewed Mushrooms",
+        "type": 0,
+        "universality": 0
+    },
+    {
+        "id": "4000004",
+        "name": "Stone",
+        "type": 10,
+        "universality": 3
+    },
+    {
+        "id": "4000102",
+        "name": "Stone Brick",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "3000190",
+        "name": "Stone Fountain",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000033",
+        "name": "Stone Stool",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "3000193",
+        "name": "Stone Striped Wooden Bench",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000032",
+        "name": "Stone Table",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "3000001",
+        "name": "Strange Mirror",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "2000020",
+        "name": "Strange Soup",
+        "type": 0,
+        "universality": 0
+    },
+    {
+        "id": "4000303",
+        "name": "Strawberry",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000067",
+        "name": "Strengthened Glass",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "3000273",
+        "name": "Stringed Corn",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000272",
+        "name": "Stringed Peppers",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000021",
+        "name": "Striped Carpet",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000192",
+        "name": "Striped Lounge Chair",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "7000091",
+        "name": "Structural Aesthetics",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "7000089",
+        "name": "Structural Dimension Theory",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000137",
+        "name": "Stuffed Bear",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000156",
+        "name": "Succulent Plant",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000026",
+        "name": "Sugar",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000045",
+        "name": "Sulfate",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000167",
+        "name": "Summer Doll",
+        "type": 2,
+        "universality": 0
+    },
+    {
+        "id": "8000105",
+        "name": "Sun Screen",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "7000010",
+        "name": "Sunglasses",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "7000130",
+        "name": "Sunglasses",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000132",
+        "name": "Sunny Side",
+        "type": 2,
+        "universality": 0
+    },
+    {
+        "id": "2000040",
+        "name": "Supremely Spicy Spaghetti",
+        "type": 0,
+        "universality": 0
+    },
+    {
+        "id": "2000032",
+        "name": "Sweet Caviar",
+        "type": 0,
+        "universality": 0
+    },
+    {
+        "id": "2000017",
+        "name": "Sweet Stew Mix",
+        "type": 0,
+        "universality": 0
+    },
+    {
+        "id": "7000081",
+        "name": "Sweetheart Cake",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000073",
+        "name": "Tail Feather",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000257",
+        "name": "Taishi Chair",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "7000013",
+        "name": "Talisman",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "7000119",
+        "name": "Tall Glass",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "2000027",
+        "name": "Tasteless Broth",
+        "type": 0,
+        "universality": 0
+    },
+    {
+        "id": "2000016",
+        "name": "Tasteless Stew Mix",
+        "type": 0,
+        "universality": 0
+    },
+    {
+        "id": "4000088",
+        "name": "Tea",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000157",
+        "name": "Tea Set",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000003",
+        "name": "Tea Table",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "7000065",
+        "name": "Teapot",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000094",
+        "name": "Teeth",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3031001",
+        "name": "Television Stand",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000203",
+        "name": "Tempering Liquid",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000105",
+        "name": "The Thinking Can",
+        "type": 2,
+        "universality": 0
+    },
+    {
+        "id": "3000135",
+        "name": "The Waiting Girl Music Box",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000153",
+        "name": "Thread",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "4000212",
+        "name": "Tin Alloy",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "4000139",
+        "name": "Tin Ore",
+        "type": 10,
+        "universality": 4
+    },
+    {
+        "id": "4000330",
+        "name": "Titanium Bar",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "4000162",
+        "name": "Titanium Ore",
+        "type": 10,
+        "universality": 4
+    },
+    {
+        "id": "4000331",
+        "name": "Titanium Plate",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "4000147",
+        "name": "Topaz",
+        "type": 10,
+        "universality": 2
+    },
+    {
+        "id": "3000148",
+        "name": "Toy Robot",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3031002",
+        "name": "Training Dummy",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "4000221",
+        "name": "Trap Box",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "4000012",
+        "name": "Tree Sap",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "7000109",
+        "name": "Triangle Sunglasses",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "1001302",
+        "name": "Triple Barrel Snakebite",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "1550102",
+        "name": "Triple Barrel Snakebite",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000012",
+        "name": "Trunk Bench",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000302",
+        "name": "Twisted Window Origamy",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000241",
+        "name": "Typewriter",
+        "type": 2,
+        "universality": 0
+    },
+    {
+        "id": "7000011",
+        "name": "Umbrella",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "7020000",
+        "name": "Unknown Recipe",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000151",
+        "name": "Upgrade Kit",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "7000118",
+        "name": "Vacuum Cleaner",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "4000030",
+        "name": "Valve",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "2000014",
+        "name": "Vegetable Salad",
+        "type": 0,
+        "universality": 0
+    },
+    {
+        "id": "4000095",
+        "name": "Venom",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "2030003",
+        "name": "Venom Dart",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "3000242",
+        "name": "Vinyl Record Player",
+        "type": 2,
+        "universality": 0
+    },
+    {
+        "id": "7000060",
+        "name": "Waist Pack",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "3000222",
+        "name": "Wall Candle",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000019",
+        "name": "Wall Lamp",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "3000002",
+        "name": "Wall Light",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "3000290",
+        "name": "Wall Light of Love",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000255",
+        "name": "War Drum",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000017",
+        "name": "Washbasin",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000008",
+        "name": "Washing Machine",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "7010004",
+        "name": "Wasted Food",
+        "type": 0,
+        "universality": 3
+    },
+    {
+        "id": "7000027",
+        "name": "Water Bucket",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "4000301",
+        "name": "Waterproof Cloth",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "3000283",
+        "name": "Weapon Rack",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "3000292",
+        "name": "Wedding Bell",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "8000019",
+        "name": "Wedding Ring",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000113",
+        "name": "Weird Glass Jar",
+        "type": 2,
+        "universality": 0
+    },
+    {
+        "id": "7000112",
+        "name": "Welding Helmet",
+        "type": 2,
+        "universality": 0
+    },
+    {
+        "id": "4000211",
+        "name": "Welding Rod",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "4000031",
+        "name": "Wheat",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000084",
+        "name": "White Armchair",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000296",
+        "name": "White Hibiscus Flower",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000224",
+        "name": "Wicker Basket",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "4000109",
+        "name": "Wild Cocoon",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000046",
+        "name": "Wild Roses",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "7000014",
+        "name": "Wildflowers",
+        "type": 10,
+        "universality": 3
+    },
+    {
+        "id": "3000169",
+        "name": "Winter Doll",
+        "type": 2,
+        "universality": 0
+    },
+    {
+        "id": "4000129",
+        "name": "Wise Fish",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "7000042",
+        "name": "Withered Branch",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000001",
+        "name": "Wood",
+        "type": 3,
+        "universality": 3
+    },
+    {
+        "id": "7000128",
+        "name": "Wood Carved Lama",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000083",
+        "name": "Wooden Armchair",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "7000002",
+        "name": "Wooden Basket",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "8000002",
+        "name": "Wooden Board",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "3000160",
+        "name": "Wooden Drawers",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "3000196",
+        "name": "Wooden Flower Square",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000256",
+        "name": "Wooden Hassock",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000250",
+        "name": "Wooden Horse",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000136",
+        "name": "Wooden Music Box",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "3000187",
+        "name": "Wooden Photo Frame",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "3000010",
+        "name": "Wooden Storage",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "3000006",
+        "name": "Wooden Table",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "1022002",
+        "name": "Work Clothes",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000064",
+        "name": "Work Desk",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "1023002",
+        "name": "Work Pants",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000051",
+        "name": "Worn Fur",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000123",
+        "name": "Wrench",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000065",
+        "name": "Yellow Bow Tie",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "7000055",
+        "name": "Yellow Duck Surfboard",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "2030005",
+        "name": "Yellow Fireworks",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "3000072",
+        "name": "Yellow Leaf",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "3000090",
+        "name": "Yellow Patio Umbrella",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "7000017",
+        "name": "Yellow Sapphire Necklace",
+        "type": 3,
+        "universality": 0
+    },
+    {
+        "id": "7000126",
+        "name": "Yoyo's Pet Tag",
+        "type": 10,
+        "universality": 0
+    },
+    {
+        "id": "4000299",
+        "name": "Zeolite",
+        "type": 10,
+        "universality": 0
+    }
+]

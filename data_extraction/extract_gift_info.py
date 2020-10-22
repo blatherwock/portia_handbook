@@ -1,5 +1,6 @@
 from collections import defaultdict
 from enum import Enum
+import json
 
 from sqlalchemy import create_engine, MetaData, Table, Column, String
 from sqlalchemy.orm import mapper, sessionmaker
@@ -9,6 +10,7 @@ import pdb
 # Python Structs
 npcs = []
 props = []
+gifts = []
 strings = {}
 
 class GiftRelationMixin():
@@ -62,9 +64,16 @@ class NPC(GiftRelationMixin):
         return self.db_data.GiftID
 
     def include(self):
-        people_to_exclude = ['Yoyo', 'First Child', 'Second Child']
+        people_to_exclude = ['Yoyo', 'First Child', 'Second Child', 'Higgins']
         return (self.name not in people_to_exclude
                 and 'SendGift' in self.db_data.Interact)
+
+    def to_object(self):
+        return {
+            'id': self.db_data.Id,
+            'name': self.name,
+            'birthday': self.birthday,
+        }
 
 
 class PropType(Enum):
@@ -112,7 +121,6 @@ class Prop(GiftRelationMixin):
     def universal_type(self):
         return self._universal_type
 
-
     @property
     def gift_tag_ids(self):
         return self.db_data.Gift_TagID.split(",")
@@ -123,6 +131,14 @@ class Prop(GiftRelationMixin):
 
     def include(self):
         return (self.db_data.IsGift == "1")
+
+    def to_object(self):
+        return {
+            'id': self.db_data.Props_Id,
+            'name': self.name,
+            'type': self.prop_type.value,
+            'universality': self.universal_type.value,
+        }
 
 class GiftLevel(Enum):
     LOVE = 5
@@ -144,6 +160,14 @@ class Gift():
 
     def prop_str(self):
         return f'{self.prop.name} ({self.favor})'
+
+    def to_object(self):
+        return {
+            'npc': self.npc.db_data.Id,
+            'prop': self.prop.db_data.Props_Id,
+            'gift_level': self.gift_level.value,
+            'favor': self.favor,
+        }
 
 
 # DATABASE OBJECTS AND LOADING
@@ -296,7 +320,7 @@ def load_gifts(session):
                             break
                     if prop_favor != default_favor:
                         break
-                Gift(npc, prop, gift_level, prop_favor)
+                gifts.append(Gift(npc, prop, gift_level, prop_favor))
 
     # invert the lookup so we can grab the appropriate npc or prop directly based on gift data
     npc_by_giftid = {}
@@ -321,6 +345,7 @@ def load_gifts(session):
         _process_gift_level(gift_info.TagID_Like, gift_info.Favor_Like, GiftLevel.LIKE)
         _process_gift_level(gift_info.TagID_Dislike, gift_info.Favor_Dislike, GiftLevel.DISLIKE)
         _process_gift_level(gift_info.TagID_Hate, gift_info.Favor_Hate, GiftLevel.HATE)
+    print(f'{len(gifts)} gifts loaded.')
 
 if __name__ == "__main__":
     session = loadSession()
@@ -331,13 +356,21 @@ if __name__ == "__main__":
     load_gifts(session)
 
     # [print(npc) for npc in npcs]
-    types = set()
-    for prop in props:
-        for p in prop.db_data.Item_Type.split(","):
-            types.add(p)
-    # print(types)
 
-    [print(prop) for prop in props if prop.universal_type != UniversalGiftTypes.NONE]
+    with open('../data/props.json', 'w') as outfile:
+        json.dump([prop.to_object() for prop in props], outfile, indent=4)
+
+    with open('../data/npcs.json', 'w') as outfile:
+        json.dump([npc.to_object() for npc in npcs], outfile, indent=4)
+
+    with open('../data/gifts.json', 'w') as outfile:
+        json.dump([gift.to_object() for gift in gifts], outfile, indent=4)
+
+    with open('../data/metadata.json', 'w') as outfile:
+        json.dump({'game_version': 'final_2.0.141140', 'game_platform': 'PC',
+                   'date_of_db_dump': '2020-10-19'}, outfile, indent=4)
+
+    # [print(prop) for prop in props if prop.universal_type != UniversalGiftTypes.NONE]
 
 
 
