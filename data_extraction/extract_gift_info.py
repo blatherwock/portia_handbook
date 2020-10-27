@@ -7,6 +7,10 @@ from sqlalchemy.orm import mapper, sessionmaker
 
 import pdb
 
+
+db_path = '../game_assets/game_db.db'
+extracted_data_folder_path = '../site/data/'
+
 # Python Structs
 npcs = []
 props = []
@@ -136,8 +140,8 @@ class Prop(GiftRelationMixin):
         return {
             'id': self.db_data.Props_Id,
             'name': self.name,
-            'type': self.prop_type.value,
-            'universality': self.universal_type.value,
+            'type': self.prop_type.name,
+            'universality': self.universal_type.name,
         }
 
 class GiftLevel(Enum):
@@ -153,7 +157,7 @@ class Gift():
         self.prop = prop
         self.prop.add_gift_info(self)
         self.gift_level = gift_level
-        self.favor = favor
+        self._favor = favor
 
     def npc_str(self):
         return f'{self.npc.name} ({self.favor})'
@@ -161,11 +165,21 @@ class Gift():
     def prop_str(self):
         return f'{self.prop.name} ({self.favor})'
 
+    @property
+    def favor(self):
+        if int(self._favor) > 0:
+            return f'+{self._favor}'
+        return self._favor
+
     def to_object(self):
         return {
             'npc': self.npc.db_data.Id,
+            'npc_name': self.npc.name,
             'prop': self.prop.db_data.Props_Id,
-            'gift_level': self.gift_level.value,
+            'prop_name': self.prop.name,
+            'prop_type': self.prop.prop_type.name,
+            'prop_universality': self.prop.universal_type.name,
+            'gift_level': self.gift_level.name,
             'favor': self.favor,
         }
 
@@ -202,7 +216,7 @@ class DB_Assembly():
 #----------------------------------------------------------------------
 def loadSession():
     """"""
-    dbPath = '../game_assets/game_db.db'
+    dbPath = db_path
     engine = create_engine('sqlite:///%s' % dbPath, echo=False)
 
     metadata = MetaData(engine)
@@ -357,16 +371,16 @@ if __name__ == "__main__":
 
     # [print(npc) for npc in npcs]
 
-    with open('../data/props.json', 'w') as outfile:
+    with open(extracted_data_folder_path + 'props.json', 'w') as outfile:
         json.dump([prop.to_object() for prop in props], outfile, indent=4)
 
-    with open('../data/npcs.json', 'w') as outfile:
+    with open(extracted_data_folder_path + 'npcs.json', 'w') as outfile:
         json.dump([npc.to_object() for npc in npcs], outfile, indent=4)
 
-    with open('../data/gifts.json', 'w') as outfile:
+    with open(extracted_data_folder_path + 'gifts.json', 'w') as outfile:
         json.dump([gift.to_object() for gift in gifts], outfile, indent=4)
 
-    with open('../data/metadata.json', 'w') as outfile:
+    with open(extracted_data_folder_path + 'metadata.json', 'w') as outfile:
         json.dump({'game_version': 'final_2.0.141140', 'game_platform': 'PC',
                    'date_of_db_dump': '2020-10-19'}, outfile, indent=4)
 
