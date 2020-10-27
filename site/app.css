@@ -1,0 +1,12 @@
+#people, #items {
+  display: none;
+}
+
+#people:target,
+#items:target {
+  display: block;
+}
+
+.items li {
+  display: inline-block;
+}
