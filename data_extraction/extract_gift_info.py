@@ -12,8 +12,8 @@ import pdb
 
 db_path = '../game_assets/game_db.db'
 images_folder_path = '../game_assets/extracted_images/'
-extracted_data_folder_path = '../site/data/'
-extracted_image_folder_path = '../site/images/items/'
+extracted_data_folder_path = '../docs/data/'
+extracted_image_folder_path = '../docs/images/items/'
 default_gift_icon_name = 'holiday_spring_giftgreen'
 
 # Python Structs
