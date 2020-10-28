@@ -7,6 +7,82 @@
   display: block;
 }
 
+.group {
+  display: inline-block;
+  border-bottom: 1px solid black;
+}
+
+.group_info,
+.group_contents {
+  display: inline-block;
+}
+.group_info {
+  width: 60px;
+}
+.group_icon {
+  height: 60px;
+  width: 60px;
+}
+
+.group_contents {
+  width: 375px;
+}
+
 .items li {
   display: inline-block;
+}
+
+.item {
+  position: relative;
+  display: inline-block;
+  width: 25px;
+}
+.item .item_title {
+  visibility: hidden;
+  position: absolute;
+  background-color: lightblue;
+  text-align: center;
+  width: 150px;
+  margin-left: -75px;
+  bottom: 100%;
+  left: 50%;
+  padding: 5px 0;
+  z-index: 1;
+}
+.item:hover .item_title {
+  visibility: visible;
+}
+.item .item_icon {
+  height: 25px;
+  width: 25px;
+}
+.item .additional_item_info {
+
+}
+
+.additional_item_info {
+  font-weight: bold;
+}
+.gift_level-love .additional_item_info {
+  color: green;
+}
+.gift_level-like .additional_item_info {
+  color: darkgreen;
+}
+.gift_level-dislike .additional_item_info {
+  color: darkred;
+}
+.gift_level-hate .additional_item_info {
+  color: red;
+}
+
+.results.hide-relics .gift_prop-relic,
+.results.hide-cookables .gift_prop-cookable_pc,
+.results.hide-cookables_ack .gift_prop-cookable_ack,
+.results.hide-universals .gift_uni-love,
+.results.hide-universals .gift_uni-like,
+.results.hide-universals .gift_uni-dislike,
+.results.hide-universals .gift_uni-hate,
+.results.hide-dislikes .gift_dislike {
+  display: none;
 }

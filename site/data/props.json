@@ -2,4404 +2,5138 @@
     {
         "id": "4000311",
         "name": "AI Chipset",
+        "icon_name": "4000311_ai_chipset",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000173",
         "name": "AI Model",
+        "icon_name": "3000173_ai_model",
         "type": "RELIC",
         "universality": "NONE"
     },
     {
         "id": "7020005",
         "name": "Abandon Tag",
+        "icon_name": "7020005_abandon_tag",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000316",
         "name": "Advanced Composite Board",
+        "icon_name": "4000316_advanced_composite_board",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "4000274",
         "name": "Advanced Engine",
+        "icon_name": "4000274_advanced_engine",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000283",
         "name": "Aluminum Ore",
+        "icon_name": "4000283_aluminum_ore",
         "type": "OTHER",
         "universality": "HATE"
     },
     {
         "id": "4000155",
         "name": "Aluminum Wires",
+        "icon_name": "4000155_aluminum_wires",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "2030012",
         "name": "Ammo",
+        "icon_name": "2030012_ammo",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "3000240",
         "name": "Ancient Computer",
+        "icon_name": "3000240_ancient_computer",
         "type": "RELIC",
         "universality": "NONE"
     },
     {
         "id": "4000096",
         "name": "Animal Bones",
+        "icon_name": "4000096_animal_bones",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000011",
         "name": "Animal Fat",
+        "icon_name": "4000011_animal_fat",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000135",
         "name": "Animal Feces",
+        "icon_name": "4000135_animal_feces",
         "type": "OTHER",
         "universality": "HATE"
     },
     {
         "id": "4000098",
         "name": "Animal Skeleton",
+        "icon_name": "4000098_animal_skeleton",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "7000086",
         "name": "Apology Bear",
+        "icon_name": "7000086_apology_bear",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000047",
         "name": "Apple",
+        "icon_name": "4000047_apple",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "2000002",
         "name": "Apple Juice",
+        "icon_name": "2000002_apple_juice",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "4000034",
         "name": "Apricot",
+        "icon_name": "4000034_apricot",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "2000061",
         "name": "Apricot Juice",
+        "icon_name": "2000061_apricot_juice",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "7000058",
         "name": "Arm Stretcher",
+        "icon_name": "7000058_arm_stretcher",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "3000055",
         "name": "Armor of a Knight",
+        "icon_name": "3000055_armor_of_a_knight",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000014",
         "name": "Aroma Apple",
+        "icon_name": "4000014_aroma_apple",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000033",
         "name": "Asteria",
+        "icon_name": "4000033_asteria",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "7000015",
         "name": "Asteria",
+        "icon_name": "7000015_asteria",
         "type": "OTHER",
         "universality": "LIKE"
     },
     {
         "id": "3000168",
         "name": "Autumn Doll",
+        "icon_name": "3000168_autumn_doll",
         "type": "RELIC",
         "universality": "NONE"
     },
     {
         "id": "3000268",
         "name": "Autumn Festival Banner",
+        "icon_name": "3000268_autumn_festival_banner",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "7000125",
         "name": "Baby Milk Powder",
+        "icon_name": "7000125_baby_milk_powder",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "2000025",
         "name": "Bacon Fish Roll",
+        "icon_name": "2000025_bacon_fish_roll",
         "type": "COOKABLE_PC",
         "universality": "NONE"
     },
     {
         "id": "2000005",
         "name": "Baked Bread",
+        "icon_name": "2000005_baked_bread",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "7000030",
         "name": "Balloon",
+        "icon_name": "7000030_balloon",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000289",
         "name": "Balloons in a Bottle",
+        "icon_name": "3000289_balloons_in_a_bottle",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "2010011",
         "name": "Bamboo Incense",
+        "icon_name": "2010011_bamboo_incense",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000043",
         "name": "Bamboo Papaya",
+        "icon_name": "4000043_bamboo_papaya",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "2000052",
         "name": "Bamboo Papaya with Egg-on-Top",
+        "icon_name": "2000052_bamboo_papaya_with_egg-on-top",
         "type": "COOKABLE_PC",
         "universality": "NONE"
     },
     {
         "id": "4000093",
         "name": "Bandage",
+        "icon_name": "4000093_bandage",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000020",
         "name": "Banner Fish",
+        "icon_name": "4000020_banner_fish",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "2000021",
         "name": "Banner Fish Sushi",
+        "icon_name": "2000021_banner_fish_sushi",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000158",
         "name": "Basic Sewing Machine",
+        "icon_name": "3000158_basic_sewing_machine",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000161",
         "name": "Bat's Wing",
+        "icon_name": "4000161_bat's_wing",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "7000105",
         "name": "Bear Wishing Lantern",
+        "icon_name": "7000105_bear_wishing_lantern",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000197",
         "name": "Bearing",
+        "icon_name": "4000197_bearing",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "4000302",
         "name": "Beef",
+        "icon_name": "4000302_beef",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "1005001",
         "name": "Beginner's Fishing Rod",
+        "icon_name": "1005001_beginner's_fishing_rod",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "7000095",
         "name": "Bell Collar",
+        "icon_name": "7000095_bell_collar",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "4000086",
         "name": "Bird Nest",
+        "icon_name": "4000086_bird_nest",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000010",
         "name": "Blade Fish",
+        "icon_name": "4000010_blade_fish",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "2000030",
         "name": "Blade Fish Mushroom Soup",
+        "icon_name": "2000030_blade_fish_mushroom_soup",
         "type": "COOKABLE_PC",
         "universality": "NONE"
     },
     {
         "id": "3000159",
         "name": "Blonde Doll",
+        "icon_name": "3000159_blonde_doll",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000079",
         "name": "Blood Stone",
+        "icon_name": "4000079_blood_stone",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "2030007",
         "name": "Blue Fireworks",
+        "icon_name": "2030007_blue_fireworks",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "4000062",
         "name": "Blue Leather",
+        "icon_name": "4000062_blue_leather",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000126",
         "name": "Blue Mackerel",
+        "icon_name": "4000126_blue_mackerel",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "7000009",
         "name": "Blue Scarf",
+        "icon_name": "7000009_blue_scarf",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000114",
         "name": "Bonsai",
+        "icon_name": "3000114_bonsai",
         "type": "RELIC",
         "universality": "NONE"
     },
     {
         "id": "7000067",
         "name": "Bookmark",
+        "icon_name": "7000067_bookmark",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000009",
         "name": "Bookshelf",
+        "icon_name": "3000009_bookshelf",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "3000263",
         "name": "Boundary Carpet",
+        "icon_name": "3000263_boundary_carpet",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000195",
         "name": "Brick Flower Stand",
+        "icon_name": "3000195_brick_flower_stand",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "7000043",
         "name": "Broken Mirror",
+        "icon_name": "7000043_broken_mirror",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "1004002",
         "name": "Bronze Axe",
+        "icon_name": "1004002_bronze_axe",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "4000142",
         "name": "Bronze Bar",
+        "icon_name": "4000142_bronze_bar",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "1007002",
         "name": "Bronze Pickaxe",
+        "icon_name": "1007002_bronze_pickaxe",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "4000146",
         "name": "Bronze Pipe",
+        "icon_name": "4000146_bronze_pipe",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "4000149",
         "name": "Bronze Plate",
+        "icon_name": "4000149_bronze_plate",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "1001003",
         "name": "Bronze Sword",
+        "icon_name": "1001003_bronze_sword",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "1510203",
         "name": "Bronze Sword",
+        "icon_name": "1510203_bronze_sword",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "1510204",
         "name": "Bronze Sword",
+        "icon_name": "1510204_bronze_sword",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "1510206",
         "name": "Bronze Sword",
+        "icon_name": "1510206_bronze_sword",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "1510207",
         "name": "Bronze Sword",
+        "icon_name": "1510207_bronze_sword",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "1510208",
         "name": "Bronze Sword",
+        "icon_name": "1510208_bronze_sword",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "1510209",
         "name": "Bronze Sword",
+        "icon_name": "1510209_bronze_sword",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "1510210",
         "name": "Bronze Sword",
+        "icon_name": "1510210_bronze_sword",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "1510212",
         "name": "Bronze Sword",
+        "icon_name": "1510212_bronze_sword",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "1510213",
         "name": "Bronze Sword",
+        "icon_name": "1510213_bronze_sword",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "1510215",
         "name": "Bronze Sword",
+        "icon_name": "1510215_bronze_sword",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "1510216",
         "name": "Bronze Sword",
+        "icon_name": "1510216_bronze_sword",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "7000077",
         "name": "Brooch",
+        "icon_name": "7000077_brooch",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000259",
         "name": "Broom",
+        "icon_name": "4000259_broom",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000182",
         "name": "Bubble Machine",
+        "icon_name": "3000182_bubble_machine",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "1002001",
         "name": "Bubble Wand",
+        "icon_name": "1002001_bubble_wand",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000068",
         "name": "Bubblefish",
+        "icon_name": "4000068_bubblefish",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "2000059",
         "name": "Bubblefish Soup",
+        "icon_name": "2000059_bubblefish_soup",
         "type": "COOKABLE_PC",
         "universality": "NONE"
     },
     {
         "id": "2000038",
         "name": "Bubblefish Stew",
+        "icon_name": "2000038_bubblefish_stew",
         "type": "COOKABLE_PC",
         "universality": "NONE"
     },
     {
         "id": "4000022",
         "name": "Bug Egg",
+        "icon_name": "4000022_bug_egg",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "7000106",
         "name": "Bunny Wishing Lantern",
+        "icon_name": "7000106_bunny_wishing_lantern",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "7000037",
         "name": "Busy Farm",
+        "icon_name": "7000037_busy_farm",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "7000045",
         "name": "Butterfly Hairpin",
+        "icon_name": "7000045_butterfly_hairpin",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000124",
         "name": "Cactus Fruit",
+        "icon_name": "4000124_cactus_fruit",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "7000124",
         "name": "Camera",
+        "icon_name": "7000124_camera",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "4000100",
         "name": "Carbon Fiber",
+        "icon_name": "4000100_carbon_fiber",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000025",
         "name": "Carbon Steel Bar",
+        "icon_name": "4000025_carbon_steel_bar",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "1021998",
         "name": "Cardboard Box",
+        "icon_name": "1021998_cardboard_box",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "7000070",
         "name": "Carving Knife",
+        "icon_name": "7000070_carving_knife",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000204",
         "name": "Cassette Box",
+        "icon_name": "4000204_cassette_box",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "7000020",
         "name": "Casual Hoodie",
+        "icon_name": "7000020_casual_hoodie",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "1301605",
         "name": "Casual Welding Pants",
+        "icon_name": "1301605_casual_welding_pants",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "1301607",
         "name": "Casual Welding Pants",
+        "icon_name": "1301607_casual_welding_pants",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "1301608",
         "name": "Casual Welding Pants",
+        "icon_name": "1301608_casual_welding_pants",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "1301612",
         "name": "Casual Welding Pants",
+        "icon_name": "1301612_casual_welding_pants",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "1301614",
         "name": "Casual Welding Pants",
+        "icon_name": "1301614_casual_welding_pants",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "7000102",
         "name": "Cat Ears Umbrella Hat",
+        "icon_name": "7000102_cat_ears_umbrella_hat",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "7000113",
         "name": "Cat Tag",
+        "icon_name": "7000113_cat_tag",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000191",
         "name": "Cat-Ear Patio Umbrella",
+        "icon_name": "3000191_cat-ear_patio_umbrella",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "2030001",
         "name": "Caterpillar",
+        "icon_name": "2030001_caterpillar",
         "type": "OTHER",
         "universality": "DISLIKE"
     },
     {
         "id": "4000127",
         "name": "Catfish",
+        "icon_name": "4000127_catfish",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000116",
         "name": "Catmaid Statue",
+        "icon_name": "3000116_catmaid_statue",
         "type": "RELIC",
         "universality": "NONE"
     },
     {
         "id": "3000279",
         "name": "Cauldron",
+        "icon_name": "3000279_cauldron",
         "type": "RELIC",
         "universality": "NONE"
     },
     {
         "id": "3000300",
         "name": "Celebration Flowers",
+        "icon_name": "3000300_celebration_flowers",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000288",
         "name": "Celebration Lamp Post",
+        "icon_name": "3000288_celebration_lamp_post",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "1004005",
         "name": "Chainsaw",
+        "icon_name": "1004005_chainsaw",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000158",
         "name": "Charcoal",
+        "icon_name": "4000158_charcoal",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "2000022",
         "name": "Cheap Soda",
+        "icon_name": "2000022_cheap_soda",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000198",
         "name": "Cheese",
+        "icon_name": "4000198_cheese",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000173",
         "name": "Chicken",
+        "icon_name": "4000173_chicken",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "7000046",
         "name": "Chicken Earrings",
+        "icon_name": "7000046_chicken_earrings",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "2000067",
         "name": "Chicken Risotto with Coconut",
+        "icon_name": "2000067_chicken_risotto_with_coconut",
         "type": "COOKABLE_PC",
         "universality": "NONE"
     },
     {
         "id": "7020004",
         "name": "Children Doll",
+        "icon_name": "7020004_children_doll",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000048",
         "name": "Chili Pepper",
+        "icon_name": "4000048_chili_pepper",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000053",
         "name": "Chrysanthemum",
+        "icon_name": "4000053_chrysanthemum",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000078",
         "name": "Cinnamon",
+        "icon_name": "4000078_cinnamon",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "1005002",
         "name": "Classic Fishing Rod",
+        "icon_name": "1005002_classic_fishing_rod",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "2000055",
         "name": "Classic Spaghetti with Meat Sauce",
+        "icon_name": "2000055_classic_spaghetti_with_meat_sauce",
         "type": "COOKABLE_PC",
         "universality": "NONE"
     },
     {
         "id": "3000175",
         "name": "Clay Figure: Female",
+        "icon_name": "3000175_clay_figure:_female",
         "type": "RELIC",
         "universality": "NONE"
     },
     {
         "id": "3000174",
         "name": "Clay Figure: Male",
+        "icon_name": "3000174_clay_figure:_male",
         "type": "RELIC",
         "universality": "NONE"
     },
     {
         "id": "3000278",
         "name": "Clear Sky Doll",
+        "icon_name": "3000278_clear_sky_doll",
         "type": "RELIC",
         "universality": "NONE"
     },
     {
         "id": "4000002",
         "name": "Cloth",
+        "icon_name": "4000002_cloth",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "3000094",
         "name": "Clothing Basket",
+        "icon_name": "3000094_clothing_basket",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000078",
         "name": "Coarse Rug",
+        "icon_name": "3000078_coarse_rug",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000112",
         "name": "Coconut",
+        "icon_name": "4000112_coconut",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000021",
         "name": "Colorful Fur",
+        "icon_name": "4000021_colorful_fur",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "1021999",
         "name": "Colorful Hat",
+        "icon_name": "1021999_colorful_hat",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "7000066",
         "name": "Colorful Swimsuit",
+        "icon_name": "7000066_colorful_swimsuit",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000106",
         "name": "Compressor",
+        "icon_name": "4000106_compressor",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000142",
         "name": "Concave Mirror",
+        "icon_name": "3000142_concave_mirror",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000300",
         "name": "Concrete",
+        "icon_name": "4000300_concrete",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "4000285",
         "name": "Condensed Power Stone",
+        "icon_name": "4000285_condensed_power_stone",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000143",
         "name": "Convex Mirror",
+        "icon_name": "3000143_convex_mirror",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "7000035",
         "name": "Cooking Master",
+        "icon_name": "7000035_cooking_master",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000262",
         "name": "Cooking Pot",
+        "icon_name": "4000262_cooking_pot",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "7000129",
         "name": "Cooler Hat",
+        "icon_name": "7000129_cooler_hat",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "4000110",
         "name": "Copper Bar",
+        "icon_name": "4000110_copper_bar",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "4000144",
         "name": "Copper Blade",
+        "icon_name": "4000144_copper_blade",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "4000036",
         "name": "Copper Coil",
+        "icon_name": "4000036_copper_coil",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "4000013",
         "name": "Copper Ore",
+        "icon_name": "4000013_copper_ore",
         "type": "OTHER",
         "universality": "HATE"
     },
     {
         "id": "4000150",
         "name": "Copper Pipe",
+        "icon_name": "4000150_copper_pipe",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "4000145",
         "name": "Copper Plate",
+        "icon_name": "4000145_copper_plate",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "4000154",
         "name": "Copper Wire",
+        "icon_name": "4000154_copper_wire",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "4000024",
         "name": "Coral",
+        "icon_name": "4000024_coral",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "7000087",
         "name": "Coral Necklace",
+        "icon_name": "7000087_coral_necklace",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "3000280",
         "name": "Coral Tree",
+        "icon_name": "3000280_coral_tree",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "4000089",
         "name": "Coriander",
+        "icon_name": "4000089_coriander",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000177",
         "name": "Cornball",
+        "icon_name": "4000177_cornball",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000003",
         "name": "Cotton",
+        "icon_name": "4000003_cotton",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000152",
         "name": "Craft Candle",
+        "icon_name": "3000152_craft_candle",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "7000071",
         "name": "Crafter's Toolbox",
+        "icon_name": "7000071_crafter's_toolbox",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "2000057",
         "name": "Creamy Salmon Stew",
+        "icon_name": "2000057_creamy_salmon_stew",
         "type": "COOKABLE_PC",
         "universality": "NONE"
     },
     {
         "id": "2000042",
         "name": "Crispy Salmon with Sauce",
+        "icon_name": "2000042_crispy_salmon_with_sauce",
         "type": "COOKABLE_PC",
         "universality": "NONE"
     },
     {
         "id": "4000120",
         "name": "Crystal",
+        "icon_name": "4000120_crystal",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "7000079",
         "name": "Crystal Chandelier",
+        "icon_name": "7000079_crystal_chandelier",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "3080003",
         "name": "Crystal Fish Tank",
+        "icon_name": "3080003_crystal_fish_tank",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000151",
         "name": "Crystal Hourglass",
+        "icon_name": "3000151_crystal_hourglass",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "7000019",
         "name": "Crystal Necklace",
+        "icon_name": "7000019_crystal_necklace",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "3000146",
         "name": "Crystal Statue",
+        "icon_name": "3000146_crystal_statue",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "4000196",
         "name": "Cultivated Soil",
+        "icon_name": "4000196_cultivated_soil",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "4000090",
         "name": "Cumin",
+        "icon_name": "4000090_cumin",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000089",
         "name": "Cupboard",
+        "icon_name": "3000089_cupboard",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000059",
         "name": "Cushioned Couch",
+        "icon_name": "3000059_cushioned_couch",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000066",
         "name": "Cushioned Stool",
+        "icon_name": "3000066_cushioned_stool",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000277",
         "name": "Damour Roly-Poly",
+        "icon_name": "3000277_damour_roly-poly",
         "type": "RELIC",
         "universality": "NONE"
     },
     {
         "id": "3000004",
         "name": "Dark Coffee Table",
+        "icon_name": "3000004_dark_coffee_table",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "2060001",
         "name": "Data Disc",
+        "icon_name": "2060001_data_disc",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "7000075",
         "name": "Decocting Pot",
+        "icon_name": "7000075_decocting_pot",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "2000031",
         "name": "Deep Fried Ribs",
+        "icon_name": "2000031_deep_fried_ribs",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000016",
         "name": "Delicate Fur",
+        "icon_name": "4000016_delicate_fur",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "2000049",
         "name": "Delicious Roasted Ribs",
+        "icon_name": "2000049_delicious_roasted_ribs",
         "type": "COOKABLE_PC",
         "universality": "NONE"
     },
     {
         "id": "7000057",
         "name": "Deluxe Fishing Kit",
+        "icon_name": "7000057_deluxe_fishing_kit",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "7000028",
         "name": "Desk Lamp",
+        "icon_name": "7000028_desk_lamp",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "4000171",
         "name": "Diamond",
+        "icon_name": "4000171_diamond",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000014",
         "name": "Dining Table",
+        "icon_name": "3000014_dining_table",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "7000121",
         "name": "Dinosaur car",
+        "icon_name": "7000121_dinosaur_car",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "7000111",
         "name": "Diving Helmet",
+        "icon_name": "7000111_diving_helmet",
         "type": "RELIC",
         "universality": "NONE"
     },
     {
         "id": "2030010",
         "name": "Dog Food",
+        "icon_name": "2030010_dog_food",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "7000110",
         "name": "Dog Tag",
+        "icon_name": "7000110_dog_tag",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000258",
         "name": "Double Door Wooden Cabinet",
+        "icon_name": "3000258_double_door_wooden_cabinet",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000299",
         "name": "Double Drawer",
+        "icon_name": "3000299_double_drawer",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "2030002",
         "name": "Dough",
+        "icon_name": "2030002_dough",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "3000140",
         "name": "Dream Lamp",
+        "icon_name": "3000140_dream_lamp",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "2000006",
         "name": "Dried Apple Slice",
+        "icon_name": "2000006_dried_apple_slice",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "2000009",
         "name": "Dried Apricot",
+        "icon_name": "2000009_dried_apricot",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "2000011",
         "name": "Dried Blade Fish",
+        "icon_name": "2000011_dried_blade_fish",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "3000138",
         "name": "Drum",
+        "icon_name": "3000138_drum",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000109",
         "name": "Duck on a King",
+        "icon_name": "3000109_duck_on_a_king",
         "type": "RELIC",
         "universality": "NONE"
     },
     {
         "id": "4000006",
         "name": "Egg",
+        "icon_name": "4000006_egg",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "1301505",
         "name": "Elegant Dress Bottom",
+        "icon_name": "1301505_elegant_dress_bottom",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "1301507",
         "name": "Elegant Dress Bottom",
+        "icon_name": "1301507_elegant_dress_bottom",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "1301508",
         "name": "Elegant Dress Bottom",
+        "icon_name": "1301508_elegant_dress_bottom",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "1301512",
         "name": "Elegant Dress Bottom",
+        "icon_name": "1301512_elegant_dress_bottom",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "1301514",
         "name": "Elegant Dress Bottom",
+        "icon_name": "1301514_elegant_dress_bottom",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000147",
         "name": "Elephant Fountain",
+        "icon_name": "3000147_elephant_fountain",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000244",
         "name": "Emperor Banner Fish",
+        "icon_name": "4000244_emperor_banner_fish",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000248",
         "name": "Emperor Blade Fish",
+        "icon_name": "4000248_emperor_blade_fish",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000257",
         "name": "Emperor Blue Mackerel",
+        "icon_name": "4000257_emperor_blue_mackerel",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000249",
         "name": "Emperor Bubblefish",
+        "icon_name": "4000249_emperor_bubblefish",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000246",
         "name": "Emperor Catfish",
+        "icon_name": "4000246_emperor_catfish",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000247",
         "name": "Emperor Firefish",
+        "icon_name": "4000247_emperor_firefish",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000250",
         "name": "Emperor Frog Fish",
+        "icon_name": "4000250_emperor_frog_fish",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000253",
         "name": "Emperor Gladiator Fish",
+        "icon_name": "4000253_emperor_gladiator_fish",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000245",
         "name": "Emperor Golden Salmon",
+        "icon_name": "4000245_emperor_golden_salmon",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000255",
         "name": "Emperor Goliath",
+        "icon_name": "4000255_emperor_goliath",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000252",
         "name": "Emperor Koi Fish",
+        "icon_name": "4000252_emperor_koi_fish",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000254",
         "name": "Emperor Lantern Fish",
+        "icon_name": "4000254_emperor_lantern_fish",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000256",
         "name": "Emperor Wise Fish",
+        "icon_name": "4000256_emperor_wise_fish",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "7000052",
         "name": "Exquisite Fountain Pen",
+        "icon_name": "7000052_exquisite_fountain_pen",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000066",
         "name": "Eye Glass",
+        "icon_name": "4000066_eye_glass",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000097",
         "name": "Eye Patch",
+        "icon_name": "4000097_eye_patch",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000268",
         "name": "Eye of the Tiger",
+        "icon_name": "4000268_eye_of_the_tiger",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000025",
         "name": "Fan",
+        "icon_name": "3000025_fan",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000180",
         "name": "Fan Model",
+        "icon_name": "3000180_fan_model",
         "type": "RELIC",
         "universality": "NONE"
     },
     {
         "id": "7000068",
         "name": "Feather Duster",
+        "icon_name": "7000068_feather_duster",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "7000100",
         "name": "Feather Scarf",
+        "icon_name": "7000100_feather_scarf",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "2040001",
         "name": "Fertilizer",
+        "icon_name": "2040001_fertilizer",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "4000080",
         "name": "Fiber Cloth",
+        "icon_name": "4000080_fiber_cloth",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "3000088",
         "name": "File Cabinet",
+        "icon_name": "3000088_file_cabinet",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000131",
         "name": "Firefish",
+        "icon_name": "4000131_firefish",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000082",
         "name": "Fireplace",
+        "icon_name": "3000082_fireplace",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "2010003",
         "name": "First Aid Kit",
+        "icon_name": "2010003_first_aid_kit",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "2000050",
         "name": "Fish Porridge",
+        "icon_name": "2000050_fish_porridge",
         "type": "COOKABLE_PC",
         "universality": "NONE"
     },
     {
         "id": "3000108",
         "name": "Fish Sub",
+        "icon_name": "3000108_fish_sub",
         "type": "RELIC",
         "universality": "NONE"
     },
     {
         "id": "1004004",
         "name": "Fisherman's Axe",
+        "icon_name": "1004004_fisherman's_axe",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "1007004",
         "name": "Fisherman's Pickaxe",
+        "icon_name": "1007004_fisherman's_pickaxe",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "2000053",
         "name": "Fishhead Stewed in Soy Sauce",
+        "icon_name": "2000053_fishhead_stewed_in_soy_sauce",
         "type": "COOKABLE_PC",
         "universality": "NONE"
     },
     {
         "id": "7000090",
         "name": "Five Hundred Creative Designs",
+        "icon_name": "7000090_five_hundred_creative_designs",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "7020003",
         "name": "Floor Brush",
+        "icon_name": "7020003_floor_brush",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000028",
         "name": "Flour",
+        "icon_name": "4000028_flour",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "3000022",
         "name": "Flower Carpet",
+        "icon_name": "3000022_flower_carpet",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "4000055",
         "name": "Flower Pot",
+        "icon_name": "4000055_flower_pot",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "7000048",
         "name": "Flower Scooper",
+        "icon_name": "7000048_flower_scooper",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "7000029",
         "name": "Flowery Soap",
+        "icon_name": "7000029_flowery_soap",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "7000006",
         "name": "Fluffy Pendant",
+        "icon_name": "7000006_fluffy_pendant",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "3000150",
         "name": "Fluffy Rabbit",
+        "icon_name": "3000150_fluffy_rabbit",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000172",
         "name": "Fortune Cat",
+        "icon_name": "3000172_fortune_cat",
         "type": "RELIC",
         "universality": "NONE"
     },
     {
         "id": "3000155",
         "name": "Fossil Replica",
+        "icon_name": "3000155_fossil_replica",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000301",
         "name": "Framed Happiness",
+        "icon_name": "3000301_framed_happiness",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "7000115",
         "name": "French Horn",
+        "icon_name": "7000115_french_horn",
         "type": "RELIC",
         "universality": "NONE"
     },
     {
         "id": "2000072",
         "name": "Fried Rice with Radish",
+        "icon_name": "2000072_fried_rice_with_radish",
         "type": "COOKABLE_ACK",
         "universality": "NONE"
     },
     {
         "id": "4000105",
         "name": "Frog Fish",
+        "icon_name": "4000105_frog_fish",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "2000007",
         "name": "Fruit Salad",
+        "icon_name": "2000007_fruit_salad",
         "type": "COOKABLE_PC",
         "universality": "NONE"
     },
     {
         "id": "2000054",
         "name": "Fruit Tart",
+        "icon_name": "2000054_fruit_tart",
         "type": "COOKABLE_PC",
         "universality": "NONE"
     },
     {
         "id": "4000027",
         "name": "Fur",
+        "icon_name": "4000027_fur",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "7000021",
         "name": "Furry Scarf",
+        "icon_name": "7000021_furry_scarf",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "3000100",
         "name": "Galloping Horse",
+        "icon_name": "3000100_galloping_horse",
         "type": "RELIC",
         "universality": "NONE"
     },
     {
         "id": "4000117",
         "name": "Gear",
+        "icon_name": "4000117_gear",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "7000107",
         "name": "Ghost Wishing Lantern",
+        "icon_name": "7000107_ghost_wishing_lantern",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000054",
         "name": "Ginger",
+        "icon_name": "4000054_ginger",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000056",
         "name": "Gladiator Fish",
+        "icon_name": "4000056_gladiator_fish",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000019",
         "name": "Glass",
+        "icon_name": "4000019_glass",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "3000070",
         "name": "Glass Cabinet",
+        "icon_name": "3000070_glass_cabinet",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000098",
         "name": "Goddess Statue",
+        "icon_name": "3000098_goddess_statue",
         "type": "RELIC",
         "universality": "NONE"
     },
     {
         "id": "3000149",
         "name": "Gold Trophy",
+        "icon_name": "3000149_gold_trophy",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000297",
         "name": "Golden Clock",
+        "icon_name": "3000297_golden_clock",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000310",
         "name": "Golden Ginseng",
+        "icon_name": "4000310_golden_ginseng",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "7000108",
         "name": "Golden Hairclip",
+        "icon_name": "7000108_golden_hairclip",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "7000050",
         "name": "Golden Necklace",
+        "icon_name": "7000050_golden_necklace",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "2000028",
         "name": "Golden Radish Soup",
+        "icon_name": "2000028_golden_radish_soup",
         "type": "COOKABLE_PC",
         "universality": "NONE"
     },
     {
         "id": "4000032",
         "name": "Golden Salmon",
+        "icon_name": "4000032_golden_salmon",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "7000078",
         "name": "Golden Toad",
+        "icon_name": "7000078_golden_toad",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000070",
         "name": "Goliath",
+        "icon_name": "4000070_goliath",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000056",
         "name": "Grapevines",
+        "icon_name": "3000056_grapevines",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "2030006",
         "name": "Green Fireworks",
+        "icon_name": "2030006_green_fireworks",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "7000094",
         "name": "Green Umbrella Hat",
+        "icon_name": "7000094_green_umbrella_hat",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000186",
         "name": "Grinding Blade",
+        "icon_name": "4000186_grinding_blade",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "4000160",
         "name": "Grinding Saw",
+        "icon_name": "4000160_grinding_saw",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "4000156",
         "name": "Grinding Stone",
+        "icon_name": "4000156_grinding_stone",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "4000114",
         "name": "Gunpowder",
+        "icon_name": "4000114_gunpowder",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "3000291",
         "name": "Hanging Flower Basket",
+        "icon_name": "3000291_hanging_flower_basket",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000315",
         "name": "Hard Shell",
+        "icon_name": "4000315_hard_shell",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000269",
         "name": "Hardened Clay",
+        "icon_name": "4000269_hardened_clay",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "4000077",
         "name": "Hardwood",
+        "icon_name": "4000077_hardwood",
         "type": "OTHER",
         "universality": "DISLIKE"
     },
     {
         "id": "3000096",
         "name": "Hardwood Couch",
+        "icon_name": "3000096_hardwood_couch",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000071",
         "name": "Hardwood Plank",
+        "icon_name": "4000071_hardwood_plank",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "3000013",
         "name": "Hardwood Sofa",
+        "icon_name": "3000013_hardwood_sofa",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "7000074",
         "name": "Harmonica",
+        "icon_name": "7000074_harmonica",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "7000041",
         "name": "Heart Knot",
+        "icon_name": "7000041_heart_knot",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "2000056",
         "name": "Herbal Juice",
+        "icon_name": "2000056_herbal_juice",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "2010001",
         "name": "Herbal Mixture",
+        "icon_name": "2010001_herbal_mixture",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "4000015",
         "name": "Herbs",
+        "icon_name": "4000015_herbs",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000084",
         "name": "Honey",
+        "icon_name": "4000084_honey",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000050",
         "name": "Honeybee Wax",
+        "icon_name": "4000050_honeybee_wax",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000243",
         "name": "Horse Head Floor Lamp",
+        "icon_name": "3000243_horse_head_floor_lamp",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000161",
         "name": "Hospital Bed",
+        "icon_name": "3000161_hospital_bed",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "3000245",
         "name": "Hurdle",
+        "icon_name": "3000245_hurdle",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000297",
         "name": "Igneous Rock",
+        "icon_name": "4000297_igneous_rock",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000145",
         "name": "Incense Burner",
+        "icon_name": "3000145_incense_burner",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000185",
         "name": "Industrial Core",
+        "icon_name": "4000185_industrial_core",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "4000101",
         "name": "Industrial Engine",
+        "icon_name": "4000101_industrial_engine",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "7020001",
         "name": "Invitation Letter",
+        "icon_name": "7020001_invitation_letter",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "1004003",
         "name": "Iron Axe",
+        "icon_name": "1004003_iron_axe",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "4000107",
         "name": "Iron Bar",
+        "icon_name": "4000107_iron_bar",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "4000035",
         "name": "Iron Ore",
+        "icon_name": "4000035_iron_ore",
         "type": "OTHER",
         "universality": "HATE"
     },
     {
         "id": "7000031",
         "name": "Iron Pan",
+        "icon_name": "7000031_iron_pan",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "1007003",
         "name": "Iron Pickaxe",
+        "icon_name": "1007003_iron_pickaxe",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "1001004",
         "name": "Iron Sword",
+        "icon_name": "1001004_iron_sword",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "1510304",
         "name": "Iron Sword",
+        "icon_name": "1510304_iron_sword",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "1510306",
         "name": "Iron Sword",
+        "icon_name": "1510306_iron_sword",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "1510307",
         "name": "Iron Sword",
+        "icon_name": "1510307_iron_sword",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "1510308",
         "name": "Iron Sword",
+        "icon_name": "1510308_iron_sword",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "1510309",
         "name": "Iron Sword",
+        "icon_name": "1510309_iron_sword",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "1510310",
         "name": "Iron Sword",
+        "icon_name": "1510310_iron_sword",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "1510313",
         "name": "Iron Sword",
+        "icon_name": "1510313_iron_sword",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "1510315",
         "name": "Iron Sword",
+        "icon_name": "1510315_iron_sword",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000219",
         "name": "Iron Wooden Plank",
+        "icon_name": "4000219_iron_wooden_plank",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "4000085",
         "name": "Ironwood",
+        "icon_name": "4000085_ironwood",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3043001",
         "name": "Irrigation Tower",
+        "icon_name": "3043001_irrigation_tower",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000240",
         "name": "Jet Tube",
+        "icon_name": "4000240_jet_tube",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "7000007",
         "name": "Jewelry Box",
+        "icon_name": "7000007_jewelry_box",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "3000246",
         "name": "Jockey Statue",
+        "icon_name": "3000246_jockey_statue",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "7000036",
         "name": "Journey to the East",
+        "icon_name": "7000036_journey_to_the_east",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "7000040",
         "name": "Joystick",
+        "icon_name": "7000040_joystick",
         "type": "RELIC",
         "universality": "NONE"
     },
     {
         "id": "3000170",
         "name": "Keypad",
+        "icon_name": "3000170_keypad",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "2000075",
         "name": "King Salmon Fillet",
+        "icon_name": "2000075_king_salmon_fillet",
         "type": "COOKABLE_ACK",
         "universality": "NONE"
     },
     {
         "id": "3000215",
         "name": "Kingfisher Pennant",
+        "icon_name": "3000215_kingfisher_pennant",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "7000044",
         "name": "Knight's Shield",
+        "icon_name": "7000044_knight's_shield",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000125",
         "name": "Koi Fish",
+        "icon_name": "4000125_koi_fish",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000254",
         "name": "Kungfu Sack",
+        "icon_name": "3000254_kungfu_sack",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000128",
         "name": "Lantern Fish",
+        "icon_name": "4000128_lantern_fish",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000061",
         "name": "Large Bookshelf",
+        "icon_name": "3000061_large_bookshelf",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000220",
         "name": "Large Iron Bucket",
+        "icon_name": "4000220_large_iron_bucket",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "3000232",
         "name": "Large Office Desk",
+        "icon_name": "3000232_large_office_desk",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "3041002",
         "name": "Large Planter Box",
+        "icon_name": "3041002_large_planter_box",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000304",
         "name": "Layered Bookshelf",
+        "icon_name": "3000304_layered_bookshelf",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000061",
         "name": "Layered Carrot",
+        "icon_name": "4000061_layered_carrot",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000206",
         "name": "Lead Bar",
+        "icon_name": "4000206_lead_bar",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "4000118",
         "name": "Lead Ore",
+        "icon_name": "4000118_lead_ore",
         "type": "OTHER",
         "universality": "HATE"
     },
     {
         "id": "4000143",
         "name": "Leather",
+        "icon_name": "4000143_leather",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "7000061",
         "name": "Leather Belt",
+        "icon_name": "7000061_leather_belt",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "3000058",
         "name": "Leather Chair",
+        "icon_name": "3000058_leather_chair",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000187",
         "name": "Leather Horn",
+        "icon_name": "4000187_leather_horn",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "3000011",
         "name": "Leather Sofa",
+        "icon_name": "3000011_leather_sofa",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000018",
         "name": "Lemon",
+        "icon_name": "4000018_lemon",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "7000103",
         "name": "Leopard Hairclip",
+        "icon_name": "7000103_leopard_hairclip",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000023",
         "name": "Lettuce",
+        "icon_name": "4000023_lettuce",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000176",
         "name": "Linen",
+        "icon_name": "4000176_linen",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000023",
         "name": "Linen Rug",
+        "icon_name": "3000023_linen_rug",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "3000086",
         "name": "Little Bear Sofa",
+        "icon_name": "3000086_little_bear_sofa",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000248",
         "name": "Llama Memorabillia Blanket",
+        "icon_name": "3000248_llama_memorabillia_blanket",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000153",
         "name": "Llama Sculpture",
+        "icon_name": "3000153_llama_sculpture",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000058",
         "name": "Lobster Claw",
+        "icon_name": "4000058_lobster_claw",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000059",
         "name": "Lobster Meat",
+        "icon_name": "4000059_lobster_meat",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "7000054",
         "name": "Logic Cube",
+        "icon_name": "7000054_logic_cube",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000252",
         "name": "Lotus Lamp",
+        "icon_name": "3000252_lotus_lamp",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000295",
         "name": "Love Sofa",
+        "icon_name": "3000295_love_sofa",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000132",
         "name": "Lubricant",
+        "icon_name": "4000132_lubricant",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "2070002",
         "name": "Lucky Chest",
+        "icon_name": "2070002_lucky_chest",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000124",
         "name": "Lucky Cover",
+        "icon_name": "3000124_lucky_cover",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "2070001",
         "name": "Lucky Sack",
+        "icon_name": "2070001_lucky_sack",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000107",
         "name": "Magic Lamp",
+        "icon_name": "3000107_magic_lamp",
         "type": "RELIC",
         "universality": "NONE"
     },
     {
         "id": "4000284",
         "name": "Magnesium Ore",
+        "icon_name": "4000284_magnesium_ore",
         "type": "OTHER",
         "universality": "HATE"
     },
     {
         "id": "4000317",
         "name": "Magnesium Powder",
+        "icon_name": "4000317_magnesium_powder",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "7000047",
         "name": "Magnetic Bracelet",
+        "icon_name": "7000047_magnetic_bracelet",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "2030009",
         "name": "Magnifying Glass",
+        "icon_name": "2030009_magnifying_glass",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "3000144",
         "name": "Man-eater Sofa",
+        "icon_name": "3000144_man-eater_sofa",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000119",
         "name": "Manganese Ore",
+        "icon_name": "4000119_manganese_ore",
         "type": "OTHER",
         "universality": "HATE"
     },
     {
         "id": "4000069",
         "name": "Manganese Steel Bar",
+        "icon_name": "4000069_manganese_steel_bar",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "4000121",
         "name": "Marble",
+        "icon_name": "4000121_marble",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000201",
         "name": "Marble Arbor",
+        "icon_name": "3000201_marble_arbor",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000199",
         "name": "Marble Courtyard Chair",
+        "icon_name": "3000199_marble_courtyard_chair",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000203",
         "name": "Marble Flower Bed",
+        "icon_name": "3000203_marble_flower_bed",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000202",
         "name": "Marble Flower Square",
+        "icon_name": "3000202_marble_flower_square",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000200",
         "name": "Marble Flower Stand",
+        "icon_name": "3000200_marble_flower_stand",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000198",
         "name": "Marble Fountain",
+        "icon_name": "3000198_marble_fountain",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000157",
         "name": "Marble Plank",
+        "icon_name": "4000157_marble_plank",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "3000204",
         "name": "Marble Street Light",
+        "icon_name": "3000204_marble_street_light",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000216",
         "name": "Martial Arts Legend Pennant",
+        "icon_name": "3000216_martial_arts_legend_pennant",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000053",
         "name": "Massage Chair",
+        "icon_name": "3000053_massage_chair",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000217",
         "name": "Master Rider Pennant",
+        "icon_name": "3000217_master_rider_pennant",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000009",
         "name": "Meat",
+        "icon_name": "4000009_meat",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "2000051",
         "name": "Meat and Mushrooms Stew",
+        "icon_name": "2000051_meat_and_mushrooms_stew",
         "type": "COOKABLE_PC",
         "universality": "NONE"
     },
     {
         "id": "2000048",
         "name": "Meatballs and Vegetable Soup",
+        "icon_name": "2000048_meatballs_and_vegetable_soup",
         "type": "COOKABLE_PC",
         "universality": "NONE"
     },
     {
         "id": "3000057",
         "name": "Meeting Table",
+        "icon_name": "3000057_meeting_table",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000241",
         "name": "Metal Jar",
+        "icon_name": "4000241_metal_jar",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000026",
         "name": "Metal Storage",
+        "icon_name": "3000026_metal_storage",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "4000309",
         "name": "Military Engine",
+        "icon_name": "4000309_military_engine",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000103",
         "name": "Milk",
+        "icon_name": "4000103_milk",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "7000120",
         "name": "Milk Bottle",
+        "icon_name": "7000120_milk_bottle",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "2000058",
         "name": "Milk Tea",
+        "icon_name": "2000058_milk_tea",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "3000062",
         "name": "Mini-Bar",
+        "icon_name": "3000062_mini-bar",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "1000001",
         "name": "Mini-Drill",
+        "icon_name": "1000001_mini-drill",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000106",
         "name": "Monster Toy",
+        "icon_name": "3000106_monster_toy",
         "type": "RELIC",
         "universality": "NONE"
     },
     {
         "id": "3000115",
         "name": "Monument Model",
+        "icon_name": "3000115_monument_model",
         "type": "RELIC",
         "universality": "NONE"
     },
     {
         "id": "4000260",
         "name": "Mop",
+        "icon_name": "4000260_mop",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000284",
         "name": "Moving Closet",
+        "icon_name": "3000284_moving_closet",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000081",
         "name": "Mucus",
+        "icon_name": "4000081_mucus",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "7000059",
         "name": "Multi-function Knife",
+        "icon_name": "7000059_multi-function_knife",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000181",
         "name": "Multi-purpose Tea Table",
+        "icon_name": "3000181_multi-purpose_tea_table",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "2000036",
         "name": "Mushroom Crepe with Fruit Sauce",
+        "icon_name": "2000036_mushroom_crepe_with_fruit_sauce",
         "type": "COOKABLE_PC",
         "universality": "NONE"
     },
     {
         "id": "4000057",
         "name": "Mustard",
+        "icon_name": "4000057_mustard",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "7020006",
         "name": "Name Card",
+        "icon_name": "7020006_name_card",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000038",
         "name": "Nitre",
+        "icon_name": "4000038_nitre",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "2000010",
         "name": "Nori",
+        "icon_name": "2000010_nori",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "2000026",
         "name": "Nori Burrito",
+        "icon_name": "2000026_nori_burrito",
         "type": "COOKABLE_PC",
         "universality": "NONE"
     },
     {
         "id": "1001005",
         "name": "Nova Sword",
+        "icon_name": "1001005_nova_sword",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "1510406",
         "name": "Nova Sword",
+        "icon_name": "1510406_nova_sword",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "1510407",
         "name": "Nova Sword",
+        "icon_name": "1510407_nova_sword",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "1510408",
         "name": "Nova Sword",
+        "icon_name": "1510408_nova_sword",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "1510409",
         "name": "Nova Sword",
+        "icon_name": "1510409_nova_sword",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "1510410",
         "name": "Nova Sword",
+        "icon_name": "1510410_nova_sword",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000262",
         "name": "Ocean Blue Carpet",
+        "icon_name": "3000262_ocean_blue_carpet",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "7000064",
         "name": "Oil Brush",
+        "icon_name": "7000064_oil_brush",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000141",
         "name": "Old Basin",
+        "icon_name": "3000141_old_basin",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000040",
         "name": "Old Parts",
+        "icon_name": "4000040_old_parts",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000110",
         "name": "Old Talker",
+        "icon_name": "3000110_old_talker",
         "type": "RELIC",
         "universality": "NONE"
     },
     {
         "id": "3000099",
         "name": "Old Thermos",
+        "icon_name": "3000099_old_thermos",
         "type": "RELIC",
         "universality": "NONE"
     },
     {
         "id": "3000054",
         "name": "One-legged Dining Table",
+        "icon_name": "3000054_one-legged_dining_table",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000122",
         "name": "Orange",
+        "icon_name": "4000122_orange",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000065",
         "name": "Orange Sofa",
+        "icon_name": "3000065_orange_sofa",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000111",
         "name": "Owl Clock",
+        "icon_name": "3000111_owl_clock",
         "type": "RELIC",
         "universality": "NONE"
     },
     {
         "id": "3000275",
         "name": "Painting: A City on the Sea",
+        "icon_name": "3000275_painting:_a_city_on_the_sea",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000303",
         "name": "Painting: Carp and Lotus.",
+        "icon_name": "3000303_painting:_carp_and_lotus.",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "7000033",
         "name": "Painting: Distant Mountains",
+        "icon_name": "7000033_painting:_distant_mountains",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "7000082",
         "name": "Painting: Kitty",
+        "icon_name": "7000082_painting:_kitty",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "7000032",
         "name": "Painting: Redstone",
+        "icon_name": "7000032_painting:_redstone",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "7000034",
         "name": "Painting: The Lonely Windmill",
+        "icon_name": "7000034_painting:_the_lonely_windmill",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "7000039",
         "name": "Painting:Girl",
+        "icon_name": "7000039_painting:girl",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "7000038",
         "name": "Painting:Street",
+        "icon_name": "7000038_painting:street",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "7000083",
         "name": "Painting\uff1aBoy",
+        "icon_name": "7000083_painting\uff1aboy",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000175",
         "name": "Palm Jujube",
+        "icon_name": "4000175_palm_jujube",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "7000003",
         "name": "Panbat Mask",
+        "icon_name": "7000003_panbat_mask",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "7000080",
         "name": "Paper Flower",
+        "icon_name": "7000080_paper_flower",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000092",
         "name": "Patio Umbrella",
+        "icon_name": "3000092_patio_umbrella",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000020",
         "name": "Paw Mat",
+        "icon_name": "3000020_paw_mat",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "7000056",
         "name": "Peach's Amulet",
+        "icon_name": "7000056_peach's_amulet",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "8000112",
         "name": "Pepperiffic Beef Burger",
+        "icon_name": "8000112_pepperiffic_beef_burger",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000163",
         "name": "Perfect Fur",
+        "icon_name": "4000163_perfect_fur",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000133",
         "name": "Performance Center Model",
+        "icon_name": "3000133_performance_center_model",
         "type": "RELIC",
         "universality": "NONE"
     },
     {
         "id": "7000001",
         "name": "Photo Album",
+        "icon_name": "7000001_photo_album",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "3000075",
         "name": "Piano",
+        "icon_name": "3000075_piano",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000076",
         "name": "Piano Bench",
+        "icon_name": "3000076_piano_bench",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "1007001",
         "name": "Pickaxe",
+        "icon_name": "1007001_pickaxe",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "7000114",
         "name": "Pig Tag",
+        "icon_name": "7000114_pig_tag",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000298",
         "name": "Piggy Sofa",
+        "icon_name": "3000298_piggy_sofa",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000074",
         "name": "Pigments",
+        "icon_name": "4000074_pigments",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "4000313",
         "name": "Pine Cone",
+        "icon_name": "4000313_pine_cone",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "7000005",
         "name": "Pinecock Costume",
+        "icon_name": "7000005_pinecock_costume",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "7000099",
         "name": "Pinecock's Crown",
+        "icon_name": "7000099_pinecock's_crown",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "7000097",
         "name": "Pinecock's Glasses",
+        "icon_name": "7000097_pinecock's_glasses",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "7000088",
         "name": "Pink Cat's Ears",
+        "icon_name": "7000088_pink_cat's_ears",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000087",
         "name": "Plaid Rug",
+        "icon_name": "3000087_plaid_rug",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000177",
         "name": "Plane Model",
+        "icon_name": "3000177_plane_model",
         "type": "RELIC",
         "universality": "NONE"
     },
     {
         "id": "4000138",
         "name": "Plant Fiber",
+        "icon_name": "4000138_plant_fiber",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000253",
         "name": "Plum Blossom Lantern",
+        "icon_name": "3000253_plum_blossom_lantern",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000261",
         "name": "Plunger",
+        "icon_name": "4000261_plunger",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000121",
         "name": "Pointy Nosed Snowman",
+        "icon_name": "3000121_pointy_nosed_snowman",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000308",
         "name": "Poison Fang",
+        "icon_name": "4000308_poison_fang",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000247",
         "name": "Pony Table Lamp",
+        "icon_name": "3000247_pony_table_lamp",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "7000098",
         "name": "Poppycock's Glasses",
+        "icon_name": "7000098_poppycock's_glasses",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000264",
         "name": "Porcelain Plate",
+        "icon_name": "4000264_porcelain_plate",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000112",
         "name": "Porcelain Waterholder",
+        "icon_name": "3000112_porcelain_waterholder",
         "type": "RELIC",
         "universality": "NONE"
     },
     {
         "id": "3000261",
         "name": "Portian Rug",
+        "icon_name": "3000261_portian_rug",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000016",
         "name": "Pot of Asteria",
+        "icon_name": "3000016_pot_of_asteria",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "4000029",
         "name": "Potato Fruit",
+        "icon_name": "4000029_potato_fruit",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000125",
         "name": "Power Lamp",
+        "icon_name": "3000125_power_lamp",
         "type": "RELIC",
         "universality": "NONE"
     },
     {
         "id": "4000115",
         "name": "Power Stone",
+        "icon_name": "4000115_power_stone",
         "type": "OTHER",
         "universality": "LIKE"
     },
     {
         "id": "1001001",
         "name": "Practice Sword",
+        "icon_name": "1001001_practice_sword",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "1510102",
         "name": "Practice Sword",
+        "icon_name": "1510102_practice_sword",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "1510103",
         "name": "Practice Sword",
+        "icon_name": "1510103_practice_sword",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "1510104",
         "name": "Practice Sword",
+        "icon_name": "1510104_practice_sword",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "1510105",
         "name": "Practice Sword",
+        "icon_name": "1510105_practice_sword",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "1510106",
         "name": "Practice Sword",
+        "icon_name": "1510106_practice_sword",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "1510107",
         "name": "Practice Sword",
+        "icon_name": "1510107_practice_sword",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "1510108",
         "name": "Practice Sword",
+        "icon_name": "1510108_practice_sword",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "1510109",
         "name": "Practice Sword",
+        "icon_name": "1510109_practice_sword",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "1510110",
         "name": "Practice Sword",
+        "icon_name": "1510110_practice_sword",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "1510111",
         "name": "Practice Sword",
+        "icon_name": "1510111_practice_sword",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "1510112",
         "name": "Practice Sword",
+        "icon_name": "1510112_practice_sword",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "1510113",
         "name": "Practice Sword",
+        "icon_name": "1510113_practice_sword",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "1510114",
         "name": "Practice Sword",
+        "icon_name": "1510114_practice_sword",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "1510115",
         "name": "Practice Sword",
+        "icon_name": "1510115_practice_sword",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "1510116",
         "name": "Practice Sword",
+        "icon_name": "1510116_practice_sword",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000318",
         "name": "Precision Parts",
+        "icon_name": "4000318_precision_parts",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "3000068",
         "name": "Printing Press",
+        "icon_name": "3000068_printing_press",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000071",
         "name": "Privacy Screen",
+        "icon_name": "3000071_privacy_screen",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "7000092",
         "name": "Propeller Umbrella Hat",
+        "icon_name": "7000092_propeller_umbrella_hat",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000159",
         "name": "Pulley",
+        "icon_name": "4000159_pulley",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "4000091",
         "name": "Pumpkin",
+        "icon_name": "4000091_pumpkin",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "2000045",
         "name": "Pumpkin Pie",
+        "icon_name": "2000045_pumpkin_pie",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "2000035",
         "name": "Pumpkin Shrimp Soup",
+        "icon_name": "2000035_pumpkin_shrimp_soup",
         "type": "COOKABLE_PC",
         "universality": "NONE"
     },
     {
         "id": "2000044",
         "name": "Pumpkin Steamed Rice",
+        "icon_name": "2000044_pumpkin_steamed_rice",
         "type": "COOKABLE_PC",
         "universality": "NONE"
     },
     {
         "id": "2030008",
         "name": "Purple Fireworks",
+        "icon_name": "2030008_purple_fireworks",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "3000045",
         "name": "Purple Hydrangea",
+        "icon_name": "3000045_purple_hydrangea",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000312",
         "name": "Purple Resin",
+        "icon_name": "4000312_purple_resin",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000133",
         "name": "Quality Leather",
+        "icon_name": "4000133_quality_leather",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "3000120",
         "name": "Rabbit Snowman",
+        "icon_name": "3000120_rabbit_snowman",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000249",
         "name": "Race Horse Memorabillia Blanket",
+        "icon_name": "3000249_race_horse_memorabillia_blanket",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000263",
         "name": "Racket",
+        "icon_name": "4000263_racket",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000044",
         "name": "Rainbow Flower",
+        "icon_name": "4000044_rainbow_flower",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000073",
         "name": "Rainbow Flower Pot",
+        "icon_name": "3000073_rainbow_flower_pot",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "2000013",
         "name": "Rainbow Lemonade",
+        "icon_name": "2000013_rainbow_lemonade",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "3000293",
         "name": "Rainbow Photo Frame",
+        "icon_name": "3000293_rainbow_photo_frame",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "7000123",
         "name": "Rainbow caterpillar",
+        "icon_name": "7000123_rainbow_caterpillar",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000194",
         "name": "Rattan Chair",
+        "icon_name": "3000194_rattan_chair",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "2030004",
         "name": "Red Firework",
+        "icon_name": "2030004_red_firework",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "1001304",
         "name": "Red Hawk",
+        "icon_name": "1001304_red_hawk",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "3000123",
         "name": "Red Heart Knot",
+        "icon_name": "3000123_red_heart_knot",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000018",
         "name": "Red Lamp",
+        "icon_name": "3000018_red_lamp",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000152",
         "name": "Red Mushroom",
+        "icon_name": "4000152_red_mushroom",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000091",
         "name": "Red Patio Umbrella",
+        "icon_name": "3000091_red_patio_umbrella",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "2000043",
         "name": "Red Tea",
+        "icon_name": "2000043_red_tea",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "7000101",
         "name": "Red Tie",
+        "icon_name": "7000101_red_tie",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000049",
         "name": "Resin",
+        "icon_name": "4000049_resin",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "4000104",
         "name": "Rice",
+        "icon_name": "4000104_rice",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "2000046",
         "name": "Roasted Meat",
+        "icon_name": "2000046_roasted_meat",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "2000037",
         "name": "Roasted Pork with Honey",
+        "icon_name": "2000037_roasted_pork_with_honey",
         "type": "COOKABLE_PC",
         "universality": "NONE"
     },
     {
         "id": "2000073",
         "name": "Roasted Turkey",
+        "icon_name": "2000073_roasted_turkey",
         "type": "COOKABLE_ACK",
         "universality": "NONE"
     },
     {
         "id": "4000017",
         "name": "Rock Salt",
+        "icon_name": "4000017_rock_salt",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000176",
         "name": "Rocket Model",
+        "icon_name": "3000176_rocket_model",
         "type": "RELIC",
         "universality": "NONE"
     },
     {
         "id": "4000099",
         "name": "Rogue's Headband",
+        "icon_name": "4000099_rogue's_headband",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "7020002",
         "name": "Roller Brush",
+        "icon_name": "7020002_roller_brush",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000113",
         "name": "Rope",
+        "icon_name": "4000113_rope",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "7000016",
         "name": "Roses",
+        "icon_name": "7000016_roses",
         "type": "OTHER",
         "universality": "LOVE"
     },
     {
         "id": "4000282",
         "name": "Royal Honey",
+        "icon_name": "4000282_royal_honey",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "7000122",
         "name": "Rubber Duck",
+        "icon_name": "7000122_rubber_duck",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000042",
         "name": "Rubber Fruit",
+        "icon_name": "4000042_rubber_fruit",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000116",
         "name": "Rubber Tire",
+        "icon_name": "4000116_rubber_tire",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "4000063",
         "name": "Ruby",
+        "icon_name": "4000063_ruby",
         "type": "OTHER",
         "universality": "LIKE"
     },
     {
         "id": "1001002",
         "name": "Rusty Iron Pipe",
+        "icon_name": "1001002_rusty_iron_pipe",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000051",
         "name": "Safety Box",
+        "icon_name": "3000051_safety_box",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "3000178",
         "name": "Sailboat Model",
+        "icon_name": "3000178_sailboat_model",
         "type": "RELIC",
         "universality": "NONE"
     },
     {
         "id": "2000001",
         "name": "Salad Sauce",
+        "icon_name": "2000001_salad_sauce",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "4000039",
         "name": "Salt",
+        "icon_name": "4000039_salt",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "2000012",
         "name": "Salty Grilled Catfish",
+        "icon_name": "2000012_salty_grilled_catfish",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "2000018",
         "name": "Salty Stew Mix",
+        "icon_name": "2000018_salty_stew_mix",
         "type": "COOKABLE_PC",
         "universality": "NONE"
     },
     {
         "id": "4000005",
         "name": "Sand",
+        "icon_name": "4000005_sand",
         "type": "OTHER",
         "universality": "DISLIKE"
     },
     {
         "id": "3000093",
         "name": "Sandbox Table",
+        "icon_name": "3000093_sandbox_table",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000148",
         "name": "Sapphire",
+        "icon_name": "4000148_sapphire",
         "type": "OTHER",
         "universality": "LIKE"
     },
     {
         "id": "7000084",
         "name": "Sapphire Photo Frame",
+        "icon_name": "7000084_sapphire_photo_frame",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "7000049",
         "name": "Sapphire Ring",
+        "icon_name": "7000049_sapphire_ring",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "2000008",
         "name": "Sashimi",
+        "icon_name": "2000008_sashimi",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000274",
         "name": "Scarecrow",
+        "icon_name": "3000274_scarecrow",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000171",
         "name": "Sculpted Lion",
+        "icon_name": "3000171_sculpted_lion",
         "type": "RELIC",
         "universality": "NONE"
     },
     {
         "id": "2000039",
         "name": "Seafood Noodles",
+        "icon_name": "2000039_seafood_noodles",
         "type": "COOKABLE_PC",
         "universality": "NONE"
     },
     {
         "id": "2000047",
         "name": "Seafood Paella",
+        "icon_name": "2000047_seafood_paella",
         "type": "COOKABLE_PC",
         "universality": "NONE"
     },
     {
         "id": "2000024",
         "name": "Seafood Stew Mix",
+        "icon_name": "2000024_seafood_stew_mix",
         "type": "COOKABLE_PC",
         "universality": "NONE"
     },
     {
         "id": "4000052",
         "name": "Seaweed",
+        "icon_name": "4000052_seaweed",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "2000076",
         "name": "Secret Fish King Soup",
+        "icon_name": "2000076_secret_fish_king_soup",
         "type": "COOKABLE_ACK",
         "universality": "NONE"
     },
     {
         "id": "4000305",
         "name": "Sewing Head",
+        "icon_name": "4000305_sewing_head",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000166",
         "name": "Shaggy Mane",
+        "icon_name": "4000166_shaggy_mane",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "7000093",
         "name": "Sharp Umbrella Hat",
+        "icon_name": "7000093_sharp_umbrella_hat",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000007",
         "name": "Shell",
+        "icon_name": "4000007_shell",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "7000018",
         "name": "Shell Necklace",
+        "icon_name": "7000018_shell_necklace",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "3000238",
         "name": "Ship in a Bottle",
+        "icon_name": "3000238_ship_in_a_bottle",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000074",
         "name": "Short Stool",
+        "icon_name": "3000074_short_stool",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "2000029",
         "name": "Shrimp and Cheese on Rice",
+        "icon_name": "2000029_shrimp_and_cheese_on_rice",
         "type": "COOKABLE_PC",
         "universality": "NONE"
     },
     {
         "id": "4000108",
         "name": "Silicon Chipset",
+        "icon_name": "4000108_silicon_chipset",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "7000022",
         "name": "Silk Scarf",
+        "icon_name": "7000022_silk_scarf",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "2020001",
         "name": "Simple Antidote",
+        "icon_name": "2020001_simple_antidote",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "1004001",
         "name": "Simple Axe",
+        "icon_name": "1004001_simple_axe",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "4000141",
         "name": "Simple Circuits",
+        "icon_name": "4000141_simple_circuits",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000005",
         "name": "Simple Desk",
+        "icon_name": "3000005_simple_desk",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "2010002",
         "name": "Simple Ointment",
+        "icon_name": "2010002_simple_ointment",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "4000136",
         "name": "Single Seat",
+        "icon_name": "4000136_single_seat",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "7000069",
         "name": "Slingshot",
+        "icon_name": "7000069_slingshot",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "7000116",
         "name": "Slipper (left)",
+        "icon_name": "7000116_slipper_(left)",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "7000117",
         "name": "Slipper (right)",
+        "icon_name": "7000117_slipper_(right)",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000200",
         "name": "Small Bomb",
+        "icon_name": "4000200_small_bomb",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "3000015",
         "name": "Small Chair",
+        "icon_name": "3000015_small_chair",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "3000024",
         "name": "Small Clock",
+        "icon_name": "3000024_small_clock",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "7000073",
         "name": "Small Dagger",
+        "icon_name": "7000073_small_dagger",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000072",
         "name": "Small Engine",
+        "icon_name": "4000072_small_engine",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000296",
         "name": "Small Flower Rack",
+        "icon_name": "3000296_small_flower_rack",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3041001",
         "name": "Small Planter Box",
+        "icon_name": "3041001_small_planter_box",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "3000063",
         "name": "Small Potted Purple Hydrangea",
+        "icon_name": "3000063_small_potted_purple_hydrangea",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "7000012",
         "name": "Small Satchel",
+        "icon_name": "7000012_small_satchel",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "4000083",
         "name": "Small Silicon Chip",
+        "icon_name": "4000083_small_silicon_chip",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000067",
         "name": "Small Waste Bin",
+        "icon_name": "3000067_small_waste_bin",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "7000104",
         "name": "Smiley Face Wishing Lantern",
+        "icon_name": "7000104_smiley_face_wishing_lantern",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "2000033",
         "name": "Smoked Fish Roll",
+        "icon_name": "2000033_smoked_fish_roll",
         "type": "COOKABLE_PC",
         "universality": "NONE"
     },
     {
         "id": "2000071",
         "name": "Smoked Ham",
+        "icon_name": "2000071_smoked_ham",
         "type": "COOKABLE_ACK",
         "universality": "NONE"
     },
     {
         "id": "2000004",
         "name": "Smoked Meat",
+        "icon_name": "2000004_smoked_meat",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000076",
         "name": "Snake Berry",
+        "icon_name": "4000076_snake_berry",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000164",
         "name": "Snake Meat",
+        "icon_name": "4000164_snake_meat",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000165",
         "name": "Snake Skin",
+        "icon_name": "4000165_snake_skin",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000092",
         "name": "Snake's Gallblader",
+        "icon_name": "4000092_snake's_gallblader",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000119",
         "name": "Snowman with a Red Scarf",
+        "icon_name": "3000119_snowman_with_a_red_scarf",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000008",
         "name": "Soil",
+        "icon_name": "4000008_soil",
         "type": "OTHER",
         "universality": "DISLIKE"
     },
     {
         "id": "3000102",
         "name": "Soldier with Axe",
+        "icon_name": "3000102_soldier_with_axe",
         "type": "RELIC",
         "universality": "NONE"
     },
     {
         "id": "3000103",
         "name": "Soldier with Blade",
+        "icon_name": "3000103_soldier_with_blade",
         "type": "RELIC",
         "universality": "NONE"
     },
     {
         "id": "3000104",
         "name": "Soldier with Lance",
+        "icon_name": "3000104_soldier_with_lance",
         "type": "RELIC",
         "universality": "NONE"
     },
     {
         "id": "3000101",
         "name": "Soldier with Scepter",
+        "icon_name": "3000101_soldier_with_scepter",
         "type": "RELIC",
         "universality": "NONE"
     },
     {
         "id": "3000052",
         "name": "Solid Wood Clock",
+        "icon_name": "3000052_solid_wood_clock",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000122",
         "name": "Solstice Lantern",
+        "icon_name": "3000122_solstice_lantern",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000118",
         "name": "Solstice Tree",
+        "icon_name": "3000118_solstice_tree",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000117",
         "name": "Solstice Wreath",
+        "icon_name": "3000117_solstice_wreath",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "2000034",
         "name": "Spaghetti with Hot Sauce",
+        "icon_name": "2000034_spaghetti_with_hot_sauce",
         "type": "COOKABLE_PC",
         "universality": "NONE"
     },
     {
         "id": "2000041",
         "name": "Special Salmon Fried Rice",
+        "icon_name": "2000041_special_salmon_fried_rice",
         "type": "COOKABLE_PC",
         "universality": "NONE"
     },
     {
         "id": "3000179",
         "name": "Sphere Trophy",
+        "icon_name": "3000179_sphere_trophy",
         "type": "RELIC",
         "universality": "NONE"
     },
     {
         "id": "2000068",
         "name": "Spiced Steak",
+        "icon_name": "2000068_spiced_steak",
         "type": "COOKABLE_PC",
         "universality": "NONE"
     },
     {
         "id": "2000015",
         "name": "Spicy Fish Soup",
+        "icon_name": "2000015_spicy_fish_soup",
         "type": "COOKABLE_PC",
         "universality": "NONE"
     },
     {
         "id": "2000019",
         "name": "Spicy Stew Mix",
+        "icon_name": "2000019_spicy_stew_mix",
         "type": "COOKABLE_PC",
         "universality": "NONE"
     },
     {
         "id": "2000062",
         "name": "Spicy Tea",
+        "icon_name": "2000062_spicy_tea",
         "type": "COOKABLE_PC",
         "universality": "NONE"
     },
     {
         "id": "4000140",
         "name": "Spider's Web",
+        "icon_name": "4000140_spider's_web",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000037",
         "name": "Spines",
+        "icon_name": "4000037_spines",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000075",
         "name": "Spring",
+        "icon_name": "4000075_spring",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000166",
         "name": "Spring Doll",
+        "icon_name": "3000166_spring_doll",
         "type": "RELIC",
         "universality": "NONE"
     },
     {
         "id": "3000060",
         "name": "Square Table",
+        "icon_name": "3000060_square_table",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000111",
         "name": "Starlight Coral",
+        "icon_name": "4000111_starlight_coral",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "7000096",
         "name": "Starry Collar",
+        "icon_name": "7000096_starry_collar",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "2000074",
         "name": "Steak with Coconut Juice",
+        "icon_name": "2000074_steak_with_coconut_juice",
         "type": "COOKABLE_ACK",
         "universality": "NONE"
     },
     {
         "id": "2000003",
         "name": "Steamed Potato Fruit",
+        "icon_name": "2000003_steamed_potato_fruit",
         "type": "COOKABLE_PC",
         "universality": "NONE"
     },
     {
         "id": "4000041",
         "name": "Steel Ball",
+        "icon_name": "4000041_steel_ball",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "4000082",
         "name": "Steel Cable",
+        "icon_name": "4000082_steel_cable",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "4000216",
         "name": "Steel Plate",
+        "icon_name": "4000216_steel_plate",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "2000060",
         "name": "Stewed Mushrooms",
+        "icon_name": "2000060_stewed_mushrooms",
         "type": "COOKABLE_PC",
         "universality": "NONE"
     },
     {
         "id": "4000004",
         "name": "Stone",
+        "icon_name": "4000004_stone",
         "type": "OTHER",
         "universality": "DISLIKE"
     },
     {
         "id": "4000102",
         "name": "Stone Brick",
+        "icon_name": "4000102_stone_brick",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "3000190",
         "name": "Stone Fountain",
+        "icon_name": "3000190_stone_fountain",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000033",
         "name": "Stone Stool",
+        "icon_name": "3000033_stone_stool",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "3000193",
         "name": "Stone Striped Wooden Bench",
+        "icon_name": "3000193_stone_striped_wooden_bench",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000032",
         "name": "Stone Table",
+        "icon_name": "3000032_stone_table",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "3000001",
         "name": "Strange Mirror",
+        "icon_name": "3000001_strange_mirror",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "2000020",
         "name": "Strange Soup",
+        "icon_name": "2000020_strange_soup",
         "type": "COOKABLE_PC",
         "universality": "NONE"
     },
     {
         "id": "4000303",
         "name": "Strawberry",
+        "icon_name": "4000303_strawberry",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000067",
         "name": "Strengthened Glass",
+        "icon_name": "4000067_strengthened_glass",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "3000273",
         "name": "Stringed Corn",
+        "icon_name": "3000273_stringed_corn",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000272",
         "name": "Stringed Peppers",
+        "icon_name": "3000272_stringed_peppers",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000021",
         "name": "Striped Carpet",
+        "icon_name": "3000021_striped_carpet",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000192",
         "name": "Striped Lounge Chair",
+        "icon_name": "3000192_striped_lounge_chair",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "7000091",
         "name": "Structural Aesthetics",
+        "icon_name": "7000091_structural_aesthetics",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "7000089",
         "name": "Structural Dimension Theory",
+        "icon_name": "7000089_structural_dimension_theory",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000137",
         "name": "Stuffed Bear",
+        "icon_name": "3000137_stuffed_bear",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000156",
         "name": "Succulent Plant",
+        "icon_name": "3000156_succulent_plant",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000026",
         "name": "Sugar",
+        "icon_name": "4000026_sugar",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000045",
         "name": "Sulfate",
+        "icon_name": "4000045_sulfate",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000167",
         "name": "Summer Doll",
+        "icon_name": "3000167_summer_doll",
         "type": "RELIC",
         "universality": "NONE"
     },
     {
         "id": "8000105",
         "name": "Sun Screen",
+        "icon_name": "8000105_sun_screen",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "7000010",
         "name": "Sunglasses",
+        "icon_name": "7000010_sunglasses",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "7000130",
         "name": "Sunglasses",
+        "icon_name": "7000130_sunglasses",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000132",
         "name": "Sunny Side",
+        "icon_name": "3000132_sunny_side",
         "type": "RELIC",
         "universality": "NONE"
     },
     {
         "id": "2000040",
         "name": "Supremely Spicy Spaghetti",
+        "icon_name": "2000040_supremely_spicy_spaghetti",
         "type": "COOKABLE_PC",
         "universality": "NONE"
     },
     {
         "id": "2000032",
         "name": "Sweet Caviar",
+        "icon_name": "2000032_sweet_caviar",
         "type": "COOKABLE_PC",
         "universality": "NONE"
     },
     {
         "id": "2000017",
         "name": "Sweet Stew Mix",
+        "icon_name": "2000017_sweet_stew_mix",
         "type": "COOKABLE_PC",
         "universality": "NONE"
     },
     {
         "id": "7000081",
         "name": "Sweetheart Cake",
+        "icon_name": "7000081_sweetheart_cake",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000073",
         "name": "Tail Feather",
+        "icon_name": "4000073_tail_feather",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000257",
         "name": "Taishi Chair",
+        "icon_name": "3000257_taishi_chair",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "7000013",
         "name": "Talisman",
+        "icon_name": "7000013_talisman",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "7000119",
         "name": "Tall Glass",
+        "icon_name": "7000119_tall_glass",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "2000027",
         "name": "Tasteless Broth",
+        "icon_name": "2000027_tasteless_broth",
         "type": "COOKABLE_PC",
         "universality": "NONE"
     },
     {
         "id": "2000016",
         "name": "Tasteless Stew Mix",
+        "icon_name": "2000016_tasteless_stew_mix",
         "type": "COOKABLE_PC",
         "universality": "NONE"
     },
     {
         "id": "4000088",
         "name": "Tea",
+        "icon_name": "4000088_tea",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000157",
         "name": "Tea Set",
+        "icon_name": "3000157_tea_set",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000003",
         "name": "Tea Table",
+        "icon_name": "3000003_tea_table",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "7000065",
         "name": "Teapot",
+        "icon_name": "7000065_teapot",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000094",
         "name": "Teeth",
+        "icon_name": "4000094_teeth",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3031001",
         "name": "Television Stand",
+        "icon_name": "3031001_television_stand",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000203",
         "name": "Tempering Liquid",
+        "icon_name": "4000203_tempering_liquid",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000105",
         "name": "The Thinking Can",
+        "icon_name": "3000105_the_thinking_can",
         "type": "RELIC",
         "universality": "NONE"
     },
     {
         "id": "3000135",
         "name": "The Waiting Girl Music Box",
+        "icon_name": "3000135_the_waiting_girl_music_box",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000153",
         "name": "Thread",
+        "icon_name": "4000153_thread",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "4000212",
         "name": "Tin Alloy",
+        "icon_name": "4000212_tin_alloy",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "4000139",
         "name": "Tin Ore",
+        "icon_name": "4000139_tin_ore",
         "type": "OTHER",
         "universality": "HATE"
     },
     {
         "id": "4000330",
         "name": "Titanium Bar",
+        "icon_name": "4000330_titanium_bar",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "4000162",
         "name": "Titanium Ore",
+        "icon_name": "4000162_titanium_ore",
         "type": "OTHER",
         "universality": "HATE"
     },
     {
         "id": "4000331",
         "name": "Titanium Plate",
+        "icon_name": "4000331_titanium_plate",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "4000147",
         "name": "Topaz",
+        "icon_name": "4000147_topaz",
         "type": "OTHER",
         "universality": "LIKE"
     },
     {
         "id": "3000148",
         "name": "Toy Robot",
+        "icon_name": "3000148_toy_robot",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3031002",
         "name": "Training Dummy",
+        "icon_name": "3031002_training_dummy",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "4000221",
         "name": "Trap Box",
+        "icon_name": "4000221_trap_box",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "4000012",
         "name": "Tree Sap",
+        "icon_name": "4000012_tree_sap",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "7000109",
         "name": "Triangle Sunglasses",
+        "icon_name": "7000109_triangle_sunglasses",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "1001302",
         "name": "Triple Barrel Snakebite",
+        "icon_name": "1001302_triple_barrel_snakebite",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "1550102",
         "name": "Triple Barrel Snakebite",
+        "icon_name": "1550102_triple_barrel_snakebite",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000012",
         "name": "Trunk Bench",
+        "icon_name": "3000012_trunk_bench",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000302",
         "name": "Twisted Window Origamy",
+        "icon_name": "3000302_twisted_window_origamy",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000241",
         "name": "Typewriter",
+        "icon_name": "3000241_typewriter",
         "type": "RELIC",
         "universality": "NONE"
     },
     {
         "id": "7000011",
         "name": "Umbrella",
+        "icon_name": "7000011_umbrella",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "7020000",
         "name": "Unknown Recipe",
+        "icon_name": "7020000_unknown_recipe",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000151",
         "name": "Upgrade Kit",
+        "icon_name": "4000151_upgrade_kit",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "7000118",
         "name": "Vacuum Cleaner",
+        "icon_name": "7000118_vacuum_cleaner",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "4000030",
         "name": "Valve",
+        "icon_name": "4000030_valve",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "2000014",
         "name": "Vegetable Salad",
+        "icon_name": "2000014_vegetable_salad",
         "type": "COOKABLE_PC",
         "universality": "NONE"
     },
     {
         "id": "4000095",
         "name": "Venom",
+        "icon_name": "4000095_venom",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "2030003",
         "name": "Venom Dart",
+        "icon_name": "2030003_venom_dart",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "3000242",
         "name": "Vinyl Record Player",
+        "icon_name": "3000242_vinyl_record_player",
         "type": "RELIC",
         "universality": "NONE"
     },
     {
         "id": "7000060",
         "name": "Waist Pack",
+        "icon_name": "7000060_waist_pack",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "3000222",
         "name": "Wall Candle",
+        "icon_name": "3000222_wall_candle",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000019",
         "name": "Wall Lamp",
+        "icon_name": "3000019_wall_lamp",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "3000002",
         "name": "Wall Light",
+        "icon_name": "3000002_wall_light",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "3000290",
         "name": "Wall Light of Love",
+        "icon_name": "3000290_wall_light_of_love",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000255",
         "name": "War Drum",
+        "icon_name": "3000255_war_drum",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000017",
         "name": "Washbasin",
+        "icon_name": "3000017_washbasin",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000008",
         "name": "Washing Machine",
+        "icon_name": "3000008_washing_machine",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "7010004",
         "name": "Wasted Food",
+        "icon_name": "7010004_wasted_food",
         "type": "COOKABLE_PC",
         "universality": "DISLIKE"
     },
     {
         "id": "7000027",
         "name": "Water Bucket",
+        "icon_name": "7000027_water_bucket",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "4000301",
         "name": "Waterproof Cloth",
+        "icon_name": "4000301_waterproof_cloth",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "3000283",
         "name": "Weapon Rack",
+        "icon_name": "3000283_weapon_rack",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "3000292",
         "name": "Wedding Bell",
+        "icon_name": "3000292_wedding_bell",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "8000019",
         "name": "Wedding Ring",
+        "icon_name": "8000019_wedding_ring",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000113",
         "name": "Weird Glass Jar",
+        "icon_name": "3000113_weird_glass_jar",
         "type": "RELIC",
         "universality": "NONE"
     },
     {
         "id": "7000112",
         "name": "Welding Helmet",
+        "icon_name": "7000112_welding_helmet",
         "type": "RELIC",
         "universality": "NONE"
     },
     {
         "id": "4000211",
         "name": "Welding Rod",
+        "icon_name": "4000211_welding_rod",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "4000031",
         "name": "Wheat",
+        "icon_name": "4000031_wheat",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000084",
         "name": "White Armchair",
+        "icon_name": "3000084_white_armchair",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000296",
         "name": "White Hibiscus Flower",
+        "icon_name": "4000296_white_hibiscus_flower",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000224",
         "name": "Wicker Basket",
+        "icon_name": "4000224_wicker_basket",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "4000109",
         "name": "Wild Cocoon",
+        "icon_name": "4000109_wild_cocoon",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000046",
         "name": "Wild Roses",
+        "icon_name": "3000046_wild_roses",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "7000014",
         "name": "Wildflowers",
+        "icon_name": "7000014_wildflowers",
         "type": "OTHER",
         "universality": "DISLIKE"
     },
     {
         "id": "3000169",
         "name": "Winter Doll",
+        "icon_name": "3000169_winter_doll",
         "type": "RELIC",
         "universality": "NONE"
     },
     {
         "id": "4000129",
         "name": "Wise Fish",
+        "icon_name": "4000129_wise_fish",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "7000042",
         "name": "Withered Branch",
+        "icon_name": "7000042_withered_branch",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000001",
         "name": "Wood",
+        "icon_name": "4000001_wood",
         "type": "CRAFTABLE",
         "universality": "DISLIKE"
     },
     {
         "id": "7000128",
         "name": "Wood Carved Lama",
+        "icon_name": "7000128_wood_carved_lama",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000083",
         "name": "Wooden Armchair",
+        "icon_name": "3000083_wooden_armchair",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "7000002",
         "name": "Wooden Basket",
+        "icon_name": "7000002_wooden_basket",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "8000002",
         "name": "Wooden Board",
+        "icon_name": "8000002_wooden_board",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "3000160",
         "name": "Wooden Drawers",
+        "icon_name": "3000160_wooden_drawers",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "3000196",
         "name": "Wooden Flower Square",
+        "icon_name": "3000196_wooden_flower_square",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000256",
         "name": "Wooden Hassock",
+        "icon_name": "3000256_wooden_hassock",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000250",
         "name": "Wooden Horse",
+        "icon_name": "3000250_wooden_horse",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000136",
         "name": "Wooden Music Box",
+        "icon_name": "3000136_wooden_music_box",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "3000187",
         "name": "Wooden Photo Frame",
+        "icon_name": "3000187_wooden_photo_frame",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "3000010",
         "name": "Wooden Storage",
+        "icon_name": "3000010_wooden_storage",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "3000006",
         "name": "Wooden Table",
+        "icon_name": "3000006_wooden_table",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "1022002",
         "name": "Work Clothes",
+        "icon_name": "1022002_work_clothes",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000064",
         "name": "Work Desk",
+        "icon_name": "3000064_work_desk",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "1023002",
         "name": "Work Pants",
+        "icon_name": "1023002_work_pants",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000051",
         "name": "Worn Fur",
+        "icon_name": "4000051_worn_fur",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000123",
         "name": "Wrench",
+        "icon_name": "4000123_wrench",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000065",
         "name": "Yellow Bow Tie",
+        "icon_name": "4000065_yellow_bow_tie",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "7000055",
         "name": "Yellow Duck Surfboard",
+        "icon_name": "7000055_yellow_duck_surfboard",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "2030005",
         "name": "Yellow Fireworks",
+        "icon_name": "2030005_yellow_fireworks",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "3000072",
         "name": "Yellow Leaf",
+        "icon_name": "3000072_yellow_leaf",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "3000090",
         "name": "Yellow Patio Umbrella",
+        "icon_name": "3000090_yellow_patio_umbrella",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "7000017",
         "name": "Yellow Sapphire Necklace",
+        "icon_name": "7000017_yellow_sapphire_necklace",
         "type": "CRAFTABLE",
         "universality": "NONE"
     },
     {
         "id": "7000126",
         "name": "Yoyo's Pet Tag",
+        "icon_name": "7000126_yoyo's_pet_tag",
         "type": "OTHER",
         "universality": "NONE"
     },
     {
         "id": "4000299",
         "name": "Zeolite",
+        "icon_name": "4000299_zeolite",
         "type": "OTHER",
         "universality": "NONE"
     }

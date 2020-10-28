@@ -1,6 +1,8 @@
 from collections import defaultdict
 from enum import Enum
+from shutil import copyfile
 import json
+import os
 
 from sqlalchemy import create_engine, MetaData, Table, Column, String
 from sqlalchemy.orm import mapper, sessionmaker
@@ -9,13 +11,17 @@ import pdb
 
 
 db_path = '../game_assets/game_db.db'
+images_folder_path = '../game_assets/extracted_images/'
 extracted_data_folder_path = '../site/data/'
+extracted_image_folder_path = '../site/images/items/'
+default_gift_icon_name = 'holiday_spring_giftgreen'
 
 # Python Structs
 npcs = []
 props = []
 gifts = []
 strings = {}
+images = []
 
 class GiftRelationMixin():
     def __init__(self):
@@ -76,6 +82,7 @@ class NPC(GiftRelationMixin):
         return {
             'id': self.db_data.Id,
             'name': self.name,
+            'icon': f'{self.name.replace(" ", "_").replace(".", "").lower()}',
             'birthday': self.birthday,
         }
 
@@ -133,6 +140,26 @@ class Prop(GiftRelationMixin):
     def tag_list_ids(self):
         return self.db_data.Tag_List.split(",")
 
+    @property
+    def probable_icon_path(self):
+        icon_name = self.db_data.Icon_Path.split("/")[-1]
+        path_candidates = [x for x in images if f'{icon_name}-CAB'.lower() in x.lower()]
+        if len(path_candidates) == 1:
+            return path_candidates[0]
+        elif len(path_candidates) > 1:
+            print(f'many candidates found for {self.name}')
+            return path_candidates[0]
+        else:
+            path_candidates = [x for x in images if f'{default_gift_icon_name}-CAB'.lower() in x.lower()]
+            assert len(path_candidates) == 1
+            print(f'no candidates found for {self.name}. using default icon ({default_gift_icon_name}).')
+            return path_candidates[0]
+
+    @property
+    def icon_name(self):
+        return f'{self.db_data.Props_Id}_{self.name.replace(" ", "_").lower()}'
+
+
     def include(self):
         return (self.db_data.IsGift == "1")
 
@@ -140,6 +167,7 @@ class Prop(GiftRelationMixin):
         return {
             'id': self.db_data.Props_Id,
             'name': self.name,
+            'icon_name': self.icon_name,
             'type': self.prop_type.name,
             'universality': self.universal_type.name,
         }
@@ -177,6 +205,7 @@ class Gift():
             'npc_name': self.npc.name,
             'prop': self.prop.db_data.Props_Id,
             'prop_name': self.prop.name,
+            'prop_icon': self.prop.icon_name,
             'prop_type': self.prop.prop_type.name,
             'prop_universality': self.prop.universal_type.name,
             'gift_level': self.gift_level.name,
@@ -216,6 +245,7 @@ class DB_Assembly():
 #----------------------------------------------------------------------
 def loadSession():
     """"""
+    global images
     dbPath = db_path
     engine = create_engine('sqlite:///%s' % dbPath, echo=False)
 
@@ -234,12 +264,17 @@ def loadSession():
 
     cookbook = Table('Cook_Book', metadata, Column("ID", String, primary_key=True), autoload=True)
     mapper(DB_CookBook, cookbook)
+
     ack_cookbook = Table('Cook_AckList', metadata, Column("Food", String, primary_key=True), autoload=True)
     mapper(DB_AckCookBook, ack_cookbook)
+
     multipart_relic = Table('Repair_table', metadata, Column("Repair_Id", String, primary_key=True), autoload=True)
     mapper(DB_Relic, multipart_relic)
+
     craftable = Table('Synthesis_table', metadata, Column("Repair_Id", String, primary_key=True), autoload=True)
     mapper(DB_Craft, craftable)
+
+    images = os.listdir(images_folder_path)
 
     Session = sessionmaker(bind=engine)
     session = Session()
@@ -361,6 +396,16 @@ def load_gifts(session):
         _process_gift_level(gift_info.TagID_Hate, gift_info.Favor_Hate, GiftLevel.HATE)
     print(f'{len(gifts)} gifts loaded.')
 
+def extract_and_rename_images():
+    images_processed = 0
+    for prop in props:
+        if prop.gift_infos:
+            origin_file = f'{images_folder_path}{prop.probable_icon_path}'
+            dest_file = f'{extracted_image_folder_path}{prop.icon_name}.png'
+            copyfile(origin_file, dest_file)
+            images_processed += 1
+    print(f'{images_processed} prop images processed')
+
 if __name__ == "__main__":
     session = loadSession()
     load_text(session)
@@ -383,6 +428,8 @@ if __name__ == "__main__":
     with open(extracted_data_folder_path + 'metadata.json', 'w') as outfile:
         json.dump({'game_version': 'final_2.0.141140', 'game_platform': 'PC',
                    'date_of_db_dump': '2020-10-19'}, outfile, indent=4)
+
+    extract_and_rename_images();
 
     # [print(prop) for prop in props if prop.universal_type != UniversalGiftTypes.NONE]
 
