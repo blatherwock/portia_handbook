@@ -75,6 +75,9 @@ function init_app() {
   document.querySelector("#filter_disliked").addEventListener("click", event => {
     document.querySelector("#people .results").classList.toggle('hide-dislikes');
   });
+  document.querySelector("#filter_onlyselected").addEventListener("click", event => {
+    document.querySelector("#people .results").classList.toggle('only-selected');
+  });
 
 
   app.dom_ready = true;
@@ -117,6 +120,13 @@ function initialize_view() {
     });
     people.appendChild(npc_view);
 
+  });
+
+  const all_items = document.querySelectorAll(".items li");
+  all_items.forEach(item => {
+    item.addEventListener("click", event => {
+      item.classList.toggle("selected");
+    })
   });
 }
 
